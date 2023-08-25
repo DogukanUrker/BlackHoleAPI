@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "fullName": "Tonantzintla 618",
+      "shortName": "TON 618"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/TON_618_SDSS9_version_2.jpg",
+    "type": "Quasar",
+    "constellation": "Canes Venatici",
+    "rightAscension": "12h 28m 24.9s",
+    "declination": "+31° 28′ 38″",
+    "redshift": "2.219",
+    "apparentMagnitude": 15.9,
+    "absoluteMagnitude": -30.9,
+    "brightness": {
+      "text": "4×10^40 watt",
+      "number": 4e40,
+      "sunTimes": {
+        "text": "140 trillion",
+        "number": 140000000000000
+      }
+    },
+    "discovery": {
+      "date": 1957,
+      "location": "Bologna in Italy",
+      "explorer": "Maarten Schmidt"
+    },
+    "solarmass": {
+      "text": "66 billion M☉",
+      "number": 66000000000
+    },
+    "distance": {
+      "m": 98391596914832000,
+      "km": 98391596914832,
+      "lightyear": 10.4,
+      "gcp": 3.188654062894456e-9,
+      "gly": 1.0407123287671202e-8
+    }
+  }
+]
