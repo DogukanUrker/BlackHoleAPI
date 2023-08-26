@@ -214,6 +214,74 @@
     }
   },
   {
+    "id": 4,
+    "name": [
+      "3C 371",
+      "UGC 11130",
+      "PGC 61417",
+      "2E 4023",
+      "7C 180717.90+694858.00",
+      "QSO B1807+698"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/3C-371-jet-O5GV07NEQ.gif",
+    "type": "BL Lac, FRI RG",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Draco",
+    "rightAscension": "18h 06m 50.681s",
+    "declination": "+69° 49′ 28.11″",
+    "coordinates": "18h 06m 50.681s, +69° 49′ 28.11″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=18%2006%2050.681%2B69%2049%2028.11&fov=0.02&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.051,
+    "apparentMagnitude": "14.4 ±1.5",
+    "absoluteMagnitude": null,
+    "spectralType": null,
+    "u-bColorIndex": null,
+    "b-vColorIndex": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "date": 1975,
+      "location": null,
+      "explorer": "Miller"
+    },
+    "solarmass": {
+      "text": null,
+      "number": null
+    },
+    "radius": null,
+    "luminosity": null,
+    "surfaceGravity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 6.906333244e24,
+      "km": 6.906333244e21,
+      "lightyear": 730000000,
+      "gcp": 0.2238189871070147,
+      "gly": 0.730499999999964
+    }
+  },
+  {
     "id": 5,
     "name": [
       "1ES 2344+514",
