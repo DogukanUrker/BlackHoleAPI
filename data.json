@@ -212,5 +212,72 @@
       "gcp": 0.00000735843245283336,
       "gly": 0.0000240164383561632
     }
+  },
+  {
+    "id": 4,
+    "name": [
+      "1ES 2344+514",
+      "TeV J2347+517",
+      "2MASS J23470484+5142178",
+      "WISE J234704.83+514217.9",
+      "Gaia DR2 1945016660584494208"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/QSOB2344p514Location.png",
+    "type": "Quasar",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Cassiopeia",
+    "coordinates": "23h 47m 04.838s, +51° 42′ 17.88″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=23%2047%2004.838%2B51%2042%2017.88&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "rightAscension": "23h 47m 04.838s",
+    "declination": "+51° 42′ 17.88″",
+    "redshift": 0.044,
+    "apparentMagnitude": null,
+    "absoluteMagnitude": null,
+    "spectralType": null,
+    "u-bColorIndex": null,
+    "b-vColorIndex": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "date": 1995,
+      "location": "Whipple Observatory",
+      "explorer": "Whipple Collaboration"
+    },
+    "solarmass": {
+      "text": null,
+      "number": null
+    },
+    "radius": null,
+    "luminosity": null,
+    "surfaceGravity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 4.730365236e25,
+      "km": 4.730365236e22,
+      "lightyear": 5000000000,
+      "gcp": 1.53300676100695,
+      "gly": 5.0034246575340005
+    }
   }
 ]
