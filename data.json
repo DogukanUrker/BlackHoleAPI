@@ -1,6 +1,68 @@
 [
   {
     "id": 1,
+    "name": ["AP Librae", "LEDA 54592", "PKS 1514-24", "QSO B1514-24"],
+    "image": "https://th.bing.com/th/id/OIP.3wqsIAWEp3SVVuspUWUkNwHaHH?pid=ImgDet&rs=1",
+    "type": "BL Lac",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Libra",
+    "rightAscension": "15h 17m 41.814s",
+    "declination": "−24° 22′ 19.48″",
+    "coordinates": "15h 17m 41.81s, −24° 22′ 19.5″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=15%2017%2041.810-24%2022%2019.50&fov=0.03&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.049,
+    "apparentMagnitude": 14,
+    "absoluteMagnitude": null,
+    "apparentDimensions": "0′.323 × 0′.278",
+    "spectralType": null,
+    "u-bColorIndex": null,
+    "b-vColorIndex": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "date": 1942,
+      "location": null,
+      "explorer": "Martha D. Ashbrook"
+    },
+    "solarmass": {
+      "text": null,
+      "number": null
+    },
+    "radius": null,
+    "luminosity": null,
+    "surfaceGravity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 6.634206799723959e24,
+      "km": 6.63420679972396e21,
+      "lightyear": 701236212.04,
+      "gpc": 0.21499997082404462,
+      "gly": 0.7017165108153353
+    }
+  },
+  {
+    "id": 2,
     "name": [
       "TON 618",
       "Tonantzintla 618",
@@ -26,6 +88,7 @@
     "redshift": 2.219,
     "apparentMagnitude": 15.9,
     "absoluteMagnitude": -30.9,
+    "apparentDimensions": null,
     "spectralType": null,
     "u-bColorIndex": null,
     "b-vColorIndex": 0.81,
@@ -71,7 +134,7 @@
     }
   },
   {
-    "id": 2,
+    "id": 3,
     "name": [
       "Cygnus X-1",
       "Cyg X-1",
@@ -97,6 +160,7 @@
     "redshift": null,
     "apparentMagnitude": 8.95,
     "absoluteMagnitude": "-6.5±0.2",
+    "apparentDimensions": null,
     "spectralType": "O9.7Iab",
     "u-bColorIndex": -0.3,
     "b-vColorIndex": 0.81,
@@ -142,7 +206,7 @@
     }
   },
   {
-    "id": 3,
+    "id": 4,
     "name": [
       "Cygnus X-3",
       "X Cyg X-3",
@@ -169,6 +233,7 @@
     "redshift": null,
     "apparentMagnitude": 13.192,
     "absoluteMagnitude": -4.5,
+    "apparentDimensions": null,
     "spectralType": "WN 4-6",
     "u-bColorIndex": null,
     "b-vColorIndex": null,
@@ -214,7 +279,7 @@
     }
   },
   {
-    "id": 4,
+    "id": 5,
     "name": [
       "3C 371",
       "UGC 11130",
@@ -237,6 +302,7 @@
     "redshift": 0.051,
     "apparentMagnitude": "14.4 ±1.5",
     "absoluteMagnitude": null,
+    "apparentDimensions": null,
     "spectralType": null,
     "u-bColorIndex": null,
     "b-vColorIndex": null,
@@ -282,73 +348,6 @@
     }
   },
   {
-    "id": 5,
-    "name": [
-      "1ES 2344+514",
-      "TeV J2347+517",
-      "2MASS J23470484+5142178",
-      "WISE J234704.83+514217.9",
-      "Gaia DR2 1945016660584494208"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/QSOB2344p514Location.png",
-    "type": "Blazar",
-    "age": {
-      "text": null,
-      "number": null
-    },
-    "constellation": "Cassiopeia",
-    "rightAscension": "23h 47m 04.838s",
-    "declination": "+51° 42′ 17.88″",
-    "coordinates": "23h 47m 04.838s, +51° 42′ 17.88″",
-    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=23%2047%2004.838%2B51%2042%2017.88&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 0.044,
-    "apparentMagnitude": null,
-    "absoluteMagnitude": null,
-    "spectralType": null,
-    "u-bColorIndex": null,
-    "b-vColorIndex": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
-    "discovery": {
-      "date": 1995,
-      "location": "Whipple Observatory",
-      "explorer": "Whipple Collaboration"
-    },
-    "solarmass": {
-      "text": null,
-      "number": null
-    },
-    "radius": null,
-    "luminosity": null,
-    "surfaceGravity": null,
-    "temperature": {
-      "kelvin": null,
-      "celsius": null,
-      "fahrenheit": null
-    },
-    "rotation": null,
-    "distance": {
-      "m": 4.730365236e25,
-      "km": 4.730365236e22,
-      "lightyear": 5000000000,
-      "gpc": 1.53300676100695,
-      "gly": 5.0034246575340005
-    }
-  },
-  {
     "id": 6,
     "name": [
       "1ES 2344+514",
@@ -371,6 +370,7 @@
     "redshift": 0.044,
     "apparentMagnitude": null,
     "absoluteMagnitude": null,
+    "apparentDimensions": null,
     "spectralType": null,
     "u-bColorIndex": null,
     "b-vColorIndex": null,
@@ -418,6 +418,74 @@
   {
     "id": 7,
     "name": [
+      "1ES 2344+514",
+      "TeV J2347+517",
+      "2MASS J23470484+5142178",
+      "WISE J234704.83+514217.9",
+      "Gaia DR2 1945016660584494208"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/QSOB2344p514Location.png",
+    "type": "Blazar",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Cassiopeia",
+    "rightAscension": "23h 47m 04.838s",
+    "declination": "+51° 42′ 17.88″",
+    "coordinates": "23h 47m 04.838s, +51° 42′ 17.88″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=23%2047%2004.838%2B51%2042%2017.88&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.044,
+    "apparentMagnitude": null,
+    "absoluteMagnitude": null,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "u-bColorIndex": null,
+    "b-vColorIndex": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "date": 1995,
+      "location": "Whipple Observatory",
+      "explorer": "Whipple Collaboration"
+    },
+    "solarmass": {
+      "text": null,
+      "number": null
+    },
+    "radius": null,
+    "luminosity": null,
+    "surfaceGravity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 4.730365236e25,
+      "km": 4.730365236e22,
+      "lightyear": 5000000000,
+      "gpc": 1.53300676100695,
+      "gly": 5.0034246575340005
+    }
+  },
+  {
+    "id": 8,
+    "name": [
       "4C +37.11",
       "GLXY J0405+380",
       "B2 0402+37",
@@ -439,6 +507,7 @@
     "redshift": "16,500 ± 300 km/s",
     "apparentMagnitude": 17.2,
     "absoluteMagnitude": null,
+    "apparentDimensions": null,
     "spectralType": null,
     "u-bColorIndex": null,
     "b-vColorIndex": null,
