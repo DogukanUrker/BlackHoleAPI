@@ -551,5 +551,67 @@
       "gpc": 0.22979362125976938,
       "gly": 0.7499999999999653
     }
+  },
+  {
+    "id": 9,
+    "name": ["S5 0014+81", "6C B0014+8120", "Q0014+813"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Black-hole-feeding-accreting-esa-nasa.jpg",
+    "type": "Quasar",
+    "age": {
+      "text": "1342 × 1099",
+      "number": 1474858
+    },
+    "constellation": "Cepheus",
+    "rightAscension": "00h 17m 08.5s",
+    "declination": "+81° 35′ 08″",
+    "coordinates": "00h 17m 08.5s, +81° 35′ 08″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=00%2017%2008.500%2B81%2035%2008.00&fov=0.04&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 3.366,
+    "apparentMagnitude": 16.5,
+    "absoluteMagnitude": -31.5,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "u-bColorIndex": null,
+    "b-vColorIndex": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": "1041 watts",
+      "number": 1041,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "date": 2009,
+      "location": null,
+      "explorer": "Team of astronomers"
+    },
+    "solarmass": {
+      "text": "40 billion M☉",
+      "number": 40000000000
+    },
+    "radius": null,
+    "luminosity": 1041,
+    "surfaceGravity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 6.906333244e24,
+      "km": 6.906333244e21,
+      "lightyear": 730000000,
+      "gpc": 0.2238189871070147,
+      "gly": 0.730499999999964
+    }
   }
 ]
