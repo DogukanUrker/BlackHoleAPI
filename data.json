@@ -140,5 +140,77 @@
       "gcp": 3.188654062894456e-9,
       "gly": 1.0407123287671202e-8
     }
+  },
+  {
+    "id": 3,
+    "name": [
+      "Cygnus X-3",
+      "X Cyg X-3",
+      "V1521 Cyg",
+      "18P 57",
+      "WR 145a",
+      "RX J2032.3+4057",
+      "INTEGRAL1 118",
+      "2U 2030+40",
+      "3U 2030+40",
+      "4U 2030+40"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cygnus_X3.jpg",
+    "type": "Microquasar",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Cygnus",
+    "coordinates": "20h 32m 25.78s, +40° 57′ 27.9″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=20%2032%2025.780%2B40%2057%2027.90&fov=0.02&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "rightAscension": "20h 32m 25.78s",
+    "declination": "+40° 57′ 27.9″",
+    "redshift": null,
+    "apparentMagnitude": 13.192,
+    "absoluteMagnitude": -4.5,
+    "spectralType": "WN 4-6",
+    "u-bColorIndex": null,
+    "b-vColorIndex": null,
+    "variableType": null,
+    "radialVelocity": "208+113-127 km/s",
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "date": 1967,
+      "location": null,
+      "explorer": null
+    },
+    "solarmass": {
+      "text": "8-14 M☉",
+      "number": "8-14"
+    },
+    "radius": "<2 R☉",
+    "luminosity": "209,000+93,000-64,000 L☉",
+    "surfaceGravity": null,
+    "temperature": {
+      "kelvin": 80000,
+      "celsius": 79726.85,
+      "fahrenheit": 143540.33
+    },
+    "rotation": null,
+    "distance": {
+      "m": 227052681720000480000,
+      "km": 227052681720000480,
+      "lightyear": 24000,
+      "gcp": 0.00000735843245283336,
+      "gly": 0.0000240164383561632
+    }
   }
 ]
