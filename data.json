@@ -2,77 +2,6 @@
   {
     "id": 1,
     "name": [
-      "Cygnus X-1",
-      "Cyg X-1",
-      "AG (or AGK2)+35 1910",
-      "BD+34 3815",
-      "HD 226868",
-      "HDE 226868",
-      "HIP 98298",
-      "SAO 69181",
-      "V1357 Cyg"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Chandra_image_of_Cygnus_X-1.jpg",
-    "type": "Microquasar",
-    "age": {
-      "text": "5 million",
-      "number": 5000000
-    },
-    "constellation": "Cygnus",
-    "coordinates": "19h 58m 21.6756s, +35° 12′ 05.775″",
-    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=19%2058%2021.676%2B35%2012%2005.78&fov=0.06&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "rightAscension": "19h 58m 21.67574s",
-    "declination": "+35° 12′ 05.7845″",
-    "redshift": null,
-    "apparentMagnitude": 8.95,
-    "absoluteMagnitude": "-6.5±0.2",
-    "spectralType": "O9.7Iab",
-    "u-bColorIndex": -0.3,
-    "b-vColorIndex": 0.81,
-    "variableType": "Ellipsoidal variable",
-    "radialVelocity": "-2.70±3.2 km/s",
-    "properMotion": {
-      "ra": "-3.812±0.015 mas/yr",
-      "dec": "-6.310±0.017 mas/yr"
-    },
-    "parallax": "0.4439 ± 0.0149 mas",
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
-    "discovery": {
-      "date": 1964,
-      "location": "Royal Greenwich Observatory",
-      "explorer": "Louise Webster and Paul Murdin"
-    },
-    "solarmass": {
-      "text": "21.2 M☉",
-      "number": 21.2
-    },
-    "radius": "20-22 R☉",
-    "luminosity": "3-4×105 L☉",
-    "surfaceGravity": "3.31±0.07 cgs",
-    "temperature": {
-      "kelvin": 31000,
-      "celsius": 30726.85,
-      "fahrenheit": 55340.33
-    },
-    "rotation": "every 5.6 days",
-    "distance": {
-      "m": 57425407418350120000,
-      "km": 57425407418350120,
-      "lightyear": 6070,
-      "gcp": 0.0000018610702078624374,
-      "gly": 0.000006074157534246276
-    }
-  },
-  {
-    "id": 2,
-    "name": [
       "TON 618",
       "Tonantzintla 618",
       "FBQS J122824.9+312837",
@@ -139,6 +68,77 @@
       "lightyear": 10.4,
       "gcp": 3.188654062894456e-9,
       "gly": 1.0407123287671202e-8
+    }
+  },
+  {
+    "id": 2,
+    "name": [
+      "Cygnus X-1",
+      "Cyg X-1",
+      "AG (or AGK2)+35 1910",
+      "BD+34 3815",
+      "HD 226868",
+      "HDE 226868",
+      "HIP 98298",
+      "SAO 69181",
+      "V1357 Cyg"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Chandra_image_of_Cygnus_X-1.jpg",
+    "type": "Microquasar",
+    "age": {
+      "text": "5 million",
+      "number": 5000000
+    },
+    "constellation": "Cygnus",
+    "coordinates": "19h 58m 21.6756s, +35° 12′ 05.775″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=19%2058%2021.676%2B35%2012%2005.78&fov=0.06&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "rightAscension": "19h 58m 21.67574s",
+    "declination": "+35° 12′ 05.7845″",
+    "redshift": null,
+    "apparentMagnitude": 8.95,
+    "absoluteMagnitude": "-6.5±0.2",
+    "spectralType": "O9.7Iab",
+    "u-bColorIndex": -0.3,
+    "b-vColorIndex": 0.81,
+    "variableType": "Ellipsoidal variable",
+    "radialVelocity": "-2.70±3.2 km/s",
+    "properMotion": {
+      "ra": "-3.812±0.015 mas/yr",
+      "dec": "-6.310±0.017 mas/yr"
+    },
+    "parallax": "0.4439 ± 0.0149 mas",
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "date": 1964,
+      "location": "Royal Greenwich Observatory",
+      "explorer": "Louise Webster and Paul Murdin"
+    },
+    "solarmass": {
+      "text": "21.2 M☉",
+      "number": 21.2
+    },
+    "radius": "20-22 R☉",
+    "luminosity": "3-4×105 L☉",
+    "surfaceGravity": "3.31±0.07 cgs",
+    "temperature": {
+      "kelvin": 31000,
+      "celsius": 30726.85,
+      "fahrenheit": 55340.33
+    },
+    "rotation": "every 5.6 days",
+    "distance": {
+      "m": 57425407418350120000,
+      "km": 57425407418350120,
+      "lightyear": 6070,
+      "gcp": 0.0000018610702078624374,
+      "gly": 0.000006074157534246276
     }
   },
   {
