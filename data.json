@@ -291,7 +291,7 @@
       "Gaia DR2 1945016660584494208"
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/QSOB2344p514Location.png",
-    "type": "Quasar",
+    "type": "Blazar",
     "age": {
       "text": null,
       "number": null
@@ -330,6 +330,141 @@
     "solarmass": {
       "text": null,
       "number": null
+    },
+    "radius": null,
+    "luminosity": null,
+    "surfaceGravity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 4.730365236e25,
+      "km": 4.730365236e22,
+      "lightyear": 5000000000,
+      "gcp": 1.53300676100695,
+      "gly": 5.0034246575340005
+    }
+  },
+  {
+    "id": 6,
+    "name": [
+      "1ES 2344+514",
+      "TeV J2347+517",
+      "2MASS J23470484+5142178",
+      "WISE J234704.83+514217.9",
+      "Gaia DR2 1945016660584494208"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/QSOB2344p514Location.png",
+    "type": "Blazar",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Cassiopeia",
+    "rightAscension": "23h 47m 04.838s",
+    "declination": "+51° 42′ 17.88″",
+    "coordinates": "23h 47m 04.838s, +51° 42′ 17.88″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=23%2047%2004.838%2B51%2042%2017.88&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.044,
+    "apparentMagnitude": null,
+    "absoluteMagnitude": null,
+    "spectralType": null,
+    "u-bColorIndex": null,
+    "b-vColorIndex": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "date": 1995,
+      "location": "Whipple Observatory",
+      "explorer": "Whipple Collaboration"
+    },
+    "solarmass": {
+      "text": null,
+      "number": null
+    },
+    "radius": null,
+    "luminosity": null,
+    "surfaceGravity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 4.730365236e25,
+      "km": 4.730365236e22,
+      "lightyear": 5000000000,
+      "gcp": 1.53300676100695,
+      "gly": 5.0034246575340005
+    }
+  },
+  {
+    "id": 7,
+    "name": [
+      "4C +37.11",
+      "GLXY J0405+380",
+      "B2 0402+37",
+      "2MASX J04054928+3803320",
+      "RX J0405.8+3803",
+      "PGC 2820486"
+    ],
+    "image": "https://ibb.co/VCM5Zgy",
+    "type": "Sy",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Perseus",
+    "rightAscension": "04h 05m 49.2s",
+    "declination": "+38° 03′ 32″",
+    "coordinates": "04h 05m 49.2s, 38° 03′ 32″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=04%2005%2049.200%2B38%2003%2032.00&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": "16,500 ± 300 km/s",
+    "apparentMagnitude": 17.2,
+    "absoluteMagnitude": null,
+    "spectralType": null,
+    "u-bColorIndex": null,
+    "b-vColorIndex": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "date": 2006,
+      "location": null,
+      "explorer": null
+    },
+    "solarmass": {
+      "text": "15 billion M☉",
+      "number": 15000000000
     },
     "radius": null,
     "luminosity": null,
