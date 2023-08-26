@@ -14,13 +14,27 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/TON_618_SDSS9_version_2.jpg",
     "type": "Quasar",
+    "age": {
+      "text": "10.8 billion",
+      "number": 10800000000
+    },
     "constellation": "Canes Venatici",
     "coordinates": "12h 28m 24.97s, +31° 28′ 37.7″",
     "rightAscension": "12h 28m 24.9s",
     "declination": "+31° 28′ 38″",
-    "redshift": "2.219",
+    "redshift": 2.219,
     "apparentMagnitude": 15.9,
     "absoluteMagnitude": -30.9,
+    "spectralType": null,
+    "u-bColorIndex": null,
+    "b-vColorIndex": 0.81,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
     "brightness": {
       "text": "4×10^40 watt",
       "number": 4e40,
@@ -38,6 +52,15 @@
       "text": "66 billion M☉",
       "number": 66000000000
     },
+    "radius": null,
+    "luminosity": null,
+    "surfaceGravity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": "every 5.6 days",
     "distance": {
       "m": 98391596914832000,
       "km": 98391596914832,
