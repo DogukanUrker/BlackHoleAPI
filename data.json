@@ -454,6 +454,50 @@
     "wikipekia": "https://en.wikipedia.org/wiki/Messier_84"
   },
   {
+    "id": null,
+    "name": ["Messier 106", "M 106", "NGC 4258", "UGC 7353", "PGC 39600"],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Messier_106_visible_and_infrared_composite.jpg",
+    "type": "SAB(s)bc",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Canes Venatici",
+    "rightAscension": "12h 18m 57.5s",
+    "declination": "+47° 18′ 14″",
+    "coordinates": "12h 18m 57.5s, +47° 18′ 14″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2018%2057.500%2B47%2018%2014.00&fov=0.59&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 448,
+    "apparentMagnitude": 8.4,
+    "absoluteMagnitude": null,
+    "discovery": {
+      "year": 1781,
+      "location": null,
+      "discoverer": "Pierre Méchain"
+    },
+    "solarmass": {
+      "text": "40 million",
+      "number": 40000000
+    },
+    "radius": "135,000 light years",
+    "luminosity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "distance": {
+      "m": 2.2406584244506627e23,
+      "km": 224065842445066270000,
+      "ly": 23683778.234086312,
+      "gpc": 0.007261478431808712,
+      "gly": 0.023699999999998903
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Messier_106"
+  },
+  {
     "id": 1,
     "name": [
       "Centaurus A",
