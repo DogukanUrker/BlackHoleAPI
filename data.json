@@ -458,6 +458,113 @@
     }
   },
   {
+    "id": null,
+    "name": [
+      "Fornax A",
+      "NGC 1316",
+      "3FHL J0322.6-3712e",
+      "WMAP J0322-3711",
+      "AM 0320-372",
+      "GSC 07026-00055",
+      "WMAP J0322-3712",
+      "APG 154",
+      "IRAS 03208-3723",
+      "PKS 0320-374",
+      "[CAC2009] S0373 CTA 23",
+      "IRAS F03207-3723",
+      "PKS 0320-37",
+      "[CHM2007] HDC 234 J032241.78-3712295",
+      "DUGRS 357-001",
+      "1Jy 0320-374",
+      "PMN J0321-3658",
+      "[CHM2007] LDC 249 J032241.78-3712295",
+      "1E 0320.7-3722",
+      "1Jy 0320-373",
+      "PSCz Q03208-3723",
+      "[FWB89] Galaxy 479",
+      "2E 761",
+      "1Jy 0320-37",
+      "RR95 75a",
+      "[KFM98] 5",
+      "2E 0320.7-3723",
+      "LEDA 12651",
+      "RX J032242-37125",
+      "[LB2005] NGC 1316 X1",
+      "ESO 357-22",
+      "2MASX J03224178-3712295",
+      "RX J0322.7-3712",
+      "[VDD93] 28",
+      "ESO-LV 357-0220",
+      "MCG-06-08-005",
+      "1RXS J032241.8-371239",
+      "[WCO2009] J032152-370824",
+      "FCC 21",
+      "MOST 0320-373",
+      "SGC 032047-3723.2",
+      "2FGL J0322.4-3717",
+      "MRC 0320-373",
+      "VSOP J0322-3712",
+      "3FGL J0322.5-3721",
+      "MSH 03-3-01",
+      "WMAP 138"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ngc1316_hst.jpg",
+    "type": "(R')SAB(s)00",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Fornax",
+    "rightAscension": "03h 22m 41.7s",
+    "declination": "−37° 12′ 30″",
+    "coordinates": "03h 22m 41.7s, −37° 12′ 30″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=03%2022%2041.700-37%2012%2030.00&fov=0.50&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 1760,
+    "apparentMagnitude": 9.4,
+    "absoluteMagnitude": null,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "date": 1977,
+      "location": null,
+      "discoverer": "François Schweizer"
+    },
+    "solarmass": {
+      "text": "140 million M☉",
+      "number": 140000000
+    },
+    "radius": 0.41,
+    "luminosity": "9.9 x 10^6^ L_sun_ (M_v_ = -12.7)",
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": "16 kpc",
+    "distance": {
+      "m": 5.861638072402578e23,
+      "km": 586163807240257800000,
+      "lightyear": 61957563.31279964,
+      "gpc": 0.018996272690807604,
+      "gly": 0.061999999999997134
+    }
+  },
+  {
     "id": 6,
     "name": ["Arp 220", "IC 1127", "IC 4553", "UGC 9913", "PGC 55497"],
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Arp_220_-_JWST%2C_HST.png",
