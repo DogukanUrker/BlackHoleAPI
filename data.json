@@ -27,14 +27,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": null,
       "location": null,
@@ -96,14 +88,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1749,
       "location": null,
@@ -171,14 +155,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1773,
       "location": null,
@@ -239,14 +215,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": "6.9",
-      "number": 6.9,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1774,
       "location": null,
@@ -300,14 +268,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": "60 Billion",
-        "number": 60000000000
-      }
-    },
     "discovery": {
       "year": 1779,
       "location": null,
@@ -371,14 +331,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": "9.6",
-      "number": 9.6,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1780,
       "location": null,
@@ -439,14 +391,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1781,
       "location": null,
@@ -507,14 +451,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1826,
       "location": "Parramatta, in New South Wales, Australia",
@@ -576,14 +512,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1892,
       "location": null,
@@ -637,14 +565,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1942,
       "location": null,
@@ -708,14 +628,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": "4×10^40 watt",
-      "number": 4e40,
-      "sunTimes": {
-        "text": "140 trillion",
-        "number": 140000000000000
-      }
-    },
     "discovery": {
       "year": 1957,
       "location": "Bologna in Italy",
@@ -779,14 +691,6 @@
       "dec": "-6.310±0.017 mas/yr"
     },
     "parallax": "0.4439 ± 0.0149 mas",
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1964,
       "location": "Royal Greenwich Observatory",
@@ -851,14 +755,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1967,
       "location": null,
@@ -919,14 +815,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1975,
       "location": null,
@@ -1028,14 +916,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1977,
       "location": null,
@@ -1089,14 +969,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": "1 trillion",
-        "number": 1000000000000
-      }
-    },
     "discovery": {
       "year": 1980,
       "location": "James Clerk Maxwell Telescope",
@@ -1156,14 +1028,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1995,
       "location": "Whipple Observatory",
@@ -1222,14 +1086,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": "15.2",
-      "number": 15.2,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 1998,
       "location": null,
@@ -1296,14 +1152,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 2005,
       "location": "University of Liège, Belgium",
@@ -1376,14 +1224,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": "22.3",
-      "number": 22.3,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 2005,
       "location": null,
@@ -1444,14 +1284,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 2006,
       "location": null,
@@ -1505,14 +1337,6 @@
       "dec": null
     },
     "parallax": null,
-    "brightness": {
-      "text": "1041 watts",
-      "number": 1041,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
     "discovery": {
       "year": 2009,
       "location": null,
