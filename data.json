@@ -405,6 +405,74 @@
     }
   },
   {
+    "id": null,
+    "name": [
+      "Messier 84",
+      "M84",
+      "NGC 4374",
+      "PGC 40455",
+      "UGC 7494",
+      "VCC 763"
+    ],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/A_fascinating_core.jpg",
+    "type": "E1",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Virgo",
+    "rightAscension": "12h 25m 03.74333s",
+    "declination": "+12° 53′ 13.1393″",
+    "coordinates": "12h 25m 03.7s, +12° 53′ 13″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2025%2003.743%2B12%2053%2013.14&fov=0.22&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 1060,
+    "apparentMagnitude": 9.1,
+    "absoluteMagnitude": -22.41,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "year": 1781,
+      "location": null,
+      "discoverer": "Charles Messier"
+    },
+    "solarmass": {
+      "text": "1 Billion 500 Million",
+      "number": 1500000000
+    },
+    "radius": 72.5,
+    "luminosity": 76400000000,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 5.235160584434443e23,
+      "km": 523516058443444400000,
+      "lightyear": 55335691.04,
+      "gpc": 0.01696599769786234,
+      "gly": 0.055373592198243844
+    }
+  },
+  {
     "id": 1,
     "name": [
       "Centaurus A",
