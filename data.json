@@ -186,7 +186,7 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": "every 5.6 days",
+    "rotation": null,
     "distance": {
       "m": 98391596914832000,
       "km": 98391596914832,
@@ -221,7 +221,7 @@
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=19%2058%2021.676%2B35%2012%2005.78&fov=0.06&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
     "apparentMagnitude": 8.95,
-    "absoluteMagnitude": "-6.5±0.2",
+    "absoluteMagnitude": -6.5,
     "apparentDimensions": null,
     "spectralType": "O9.7Iab",
     "u-bColorIndex": -0.3,
@@ -250,15 +250,15 @@
       "text": "21.2 M☉",
       "number": 21.2
     },
-    "radius": "20-22 R☉",
+    "radius": 14609700,
     "luminosity": "3-4×105 L☉",
     "surfaceGravity": "3.31±0.07 cgs",
     "temperature": {
-      "kelvin": 31000,
+      "kelvin": 31000.0,
       "celsius": 30726.85,
       "fahrenheit": 55340.33
     },
-    "rotation": "every 5.6 days",
+    "rotation": "800 times per second",
     "distance": {
       "m": 57425407418350120000,
       "km": 57425407418350120,
@@ -323,11 +323,11 @@
       "text": "8-14 M☉",
       "number": "8-14"
     },
-    "radius": "<2 R☉",
+    "radius": 1391400,
     "luminosity": "209,000+93,000-64,000 L☉",
     "surfaceGravity": null,
     "temperature": {
-      "kelvin": 80000,
+      "kelvin": 80000.0,
       "celsius": 79726.85,
       "fahrenheit": 143540.33
     },
@@ -362,7 +362,7 @@
     "coordinates": "18h 06m 50.681s, +69° 49′ 28.11″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=18%2006%2050.681%2B69%2049%2028.11&fov=0.02&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": 0.051,
-    "apparentMagnitude": "14.4 ±1.5",
+    "apparentMagnitude": 14.4,
     "absoluteMagnitude": null,
     "apparentDimensions": null,
     "spectralType": null,
@@ -411,6 +411,68 @@
   },
   {
     "id": 6,
+    "name": ["Arp 220", "IC 1127", "IC 4553", "UGC 9913", "PGC 55497"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Arp_220_-_JWST%2C_HST.png",
+    "type": "S?",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Serpens",
+    "rightAscension": "15h 34m 57.1s",
+    "declination": "+23° 30′ 11″",
+    "coordinates": "15h 34m 57.1s, +23° 30′ 11″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=15%2034%2057.100%2B23%2030%2011.00&fov=0.25&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 5434,
+    "apparentMagnitude": 13.9,
+    "absoluteMagnitude": null,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "u-bColorIndex": null,
+    "b-vColorIndex": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": "1 trillion",
+        "number": 1000000000000
+      }
+    },
+    "discovery": {
+      "date": 1980,
+      "location": "James Clerk Maxwell Telescope",
+      "explorer": "IRAS"
+    },
+    "solarmass": {
+      "text": null,
+      "number": null
+    },
+    "radius": null,
+    "luminosity": 1000000000000,
+    "surfaceGravity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 2.365182618e24,
+      "km": 2.365182618e21,
+      "lightyear": 250000000,
+      "gpc": 0.0766503380503475,
+      "gly": 0.2501712328767
+    }
+  },
+  {
+    "id": 7,
     "name": [
       "1ES 2344+514",
       "TeV J2347+517",
@@ -478,7 +540,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "name": [
       "1ES 2344+514",
       "TeV J2347+517",
@@ -564,7 +626,7 @@
     "declination": "52° 45′ 16.8″",
     "coordinates": "08h 31m 41.70s, +52° 45′ 16.8″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=08%2031%2041.700%2B52%2045%2016.80&fov=0.05&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": "3.911",
+    "redshift": 3.911,
     "apparentMagnitude": 15.2,
     "absoluteMagnitude": 15,
     "apparentDimensions": null,
@@ -599,9 +661,9 @@
     "luminosity": "5×10 15 L solar",
     "surfaceGravity": null,
     "temperature": {
-      "kelvin": "99 −35+91 keV",
-      "celsius": "-174.15 -147.15",
-      "fahrenheit": "-281.47 -232.87"
+      "kelvin": 112.5,
+      "celsius": -160.65,
+      "fahrenheit": -257.17
     },
     "rotation": null,
     "distance": {
@@ -613,7 +675,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "name": [
       "4C +37.11",
       "GLXY J0405+380",
@@ -633,7 +695,7 @@
     "declination": "+38° 03′ 32″",
     "coordinates": "04h 05m 49.2s, 38° 03′ 32″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=04%2005%2049.200%2B38%2003%2032.00&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": "16,500 ± 300 km/s",
+    "redshift": 16500,
     "apparentMagnitude": 17.2,
     "absoluteMagnitude": null,
     "apparentDimensions": null,
@@ -682,7 +744,7 @@
     }
   },
   {
-    "id": 10,
+    "id": 11,
     "name": ["S5 0014+81", "6C B0014+8120", "Q0014+813"],
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Black-hole-feeding-accreting-esa-nasa.jpg",
     "type": "Quasar",
@@ -727,7 +789,7 @@
       "number": 40000000000
     },
     "radius": null,
-    "luminosity": 1041,
+    "luminosity": "10^41 watts",
     "surfaceGravity": null,
     "temperature": {
       "kelvin": null,
