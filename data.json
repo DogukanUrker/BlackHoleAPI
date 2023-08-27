@@ -40,7 +40,8 @@
       "lightyear": null,
       "gpc": null,
       "gly": null
-    }
+    },
+    "wikipekia": null
   },
   {
     "id": null,
@@ -91,7 +92,8 @@
       "lightyear": 2504880.98,
       "gpc": 0.0007679998955715429,
       "gly": 0.002506596651903986
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Messier_32"
   },
   {
     "id": null,
@@ -148,7 +150,8 @@
       "lightyear": 23000000,
       "gpc": 0.00705183110063197,
       "gly": 0.0230157534246564
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Whirlpool_Galaxy"
   },
   {
     "id": null,
@@ -198,7 +201,8 @@
       "lightyear": 11800000,
       "gpc": 0.003617895955976402,
       "gly": 0.01180808219178024
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Messier_81"
   },
   {
     "id": null,
@@ -241,7 +245,8 @@
       "lightyear": 56661190.96509258,
       "gpc": 0.017372397767238566,
       "gly": 0.05669999999999738
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Messier_60"
   },
   {
     "id": null,
@@ -294,7 +299,8 @@
       "lightyear": 45000000,
       "gpc": 0.013797060849062551,
       "gly": 0.045030821917806
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Messier_77"
   },
   {
     "id": null,
@@ -344,7 +350,8 @@
       "lightyear": 55335691.04,
       "gpc": 0.01696599769786234,
       "gly": 0.055373592198243844
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Messier_84"
   },
   {
     "id": 1,
@@ -394,7 +401,8 @@
       "lightyear": 11000000,
       "gpc": 0.00337261487421529,
       "gly": 0.0110075342465748
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Centaurus_A"
   },
   {
     "id": null,
@@ -445,7 +453,8 @@
       "lightyear": 84941820.6707737,
       "gpc": 0.026043277076107197,
       "gly": 0.08499999999999606
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/IC_1459"
   },
   {
     "id": 1,
@@ -488,7 +497,8 @@
       "lightyear": 701236212.04,
       "gpc": 0.21499997082404462,
       "gly": 0.7017165108153353
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/AP_Librae"
   },
   {
     "id": 2,
@@ -541,7 +551,8 @@
       "lightyear": 10.4,
       "gpc": 3.188654062894456e-9,
       "gly": 1.0407123287671202e-8
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/TON_618"
   },
   {
     "id": 3,
@@ -594,7 +605,8 @@
       "lightyear": 6070,
       "gpc": 0.0000018610702078624374,
       "gly": 0.000006074157534246276
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Cygnus_X-1"
   },
   {
     "id": 4,
@@ -648,7 +660,8 @@
       "lightyear": 24000,
       "gpc": 0.00000735843245283336,
       "gly": 0.0000240164383561632
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Cygnus_X-3"
   },
   {
     "id": 5,
@@ -698,7 +711,8 @@
       "lightyear": 730000000,
       "gpc": 0.2238189871070147,
       "gly": 0.730499999999964
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/3C_371#:~:text=3C%20371%20is%20a%20BL%20Lac%20object%20located,among%20the%20nearest%20and%20brightest%20BL%20Lacs.%20"
   },
   {
     "id": null,
@@ -789,7 +803,8 @@
       "lightyear": 61957563.31279964,
       "gpc": 0.018996272690807604,
       "gly": 0.061999999999997134
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_1316"
   },
   {
     "id": 6,
@@ -832,7 +847,8 @@
       "lightyear": 250000000,
       "gpc": 0.0766503380503475,
       "gly": 0.2501712328767
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Arp_220"
   },
   {
     "id": 7,
@@ -881,7 +897,8 @@
       "lightyear": 5000000000,
       "gpc": 1.53300676100695,
       "gly": 5.0034246575340005
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/1ES_2344%2B514"
   },
   {
     "id": 9,
@@ -929,7 +946,8 @@
       "lightyear": 23483262380.626083,
       "gpc": 7.2,
       "gly": 23.6
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/APM_08279%2B5255"
   },
   {
     "id": null,
@@ -985,7 +1003,8 @@
       "lightyear": 3000000000,
       "gpc": 0.91980405660417,
       "gly": 3.0020547945204
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/HE0450-2958"
   },
   {
     "id": null,
@@ -1047,7 +1066,8 @@
       "lightyear": 2495096.2894,
       "gpc": 0.0007649998962027107,
       "gly": 0.00249680525946111
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
   },
   {
     "id": 10,
@@ -1097,7 +1117,8 @@
       "lightyear": 749486652.977415,
       "gpc": 0.22979362125976938,
       "gly": 0.7499999999999653
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/4C_%2B37.11#:~:text=4C%20%2B37.11%20or%20Galaxy%200402%2B379%20is%20a%20radio,parsecs%2C%20with%20an%20orbital%20period%20of%2030%2C000%20years."
   },
   {
     "id": 11,
@@ -1140,6 +1161,7 @@
       "lightyear": 12067787612.266182,
       "gpc": 3.7,
       "gly": 12.0760532202199
-    }
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/S5_0014%2B81"
   }
 ]
