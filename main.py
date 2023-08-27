@@ -30,8 +30,7 @@ def blackHoles():
 @app.get("/data/{id}")
 def getByID(id):
     for i in data():
-        if i["id"] == int(id):
-            print(i)
+        if str(i["id"]) == id:
             return i
 
 
