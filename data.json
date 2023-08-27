@@ -18,8 +18,6 @@
     "absoluteMagnitude": null,
     "apparentDimensions": null,
     "spectralType": null,
-    "u-bColorIndex": null,
-    "b-vColorIndex": null,
     "variableType": null,
     "radialVelocity": null,
     "properMotion": {
@@ -46,7 +44,6 @@
     },
     "radius": null,
     "luminosity": null,
-    "surfaceGravity": null,
     "temperature": {
       "kelvin": null,
       "celsius": null,
@@ -80,8 +77,6 @@
     "absoluteMagnitude": null,
     "apparentDimensions": "0′.323 × 0′.278",
     "spectralType": null,
-    "u-bColorIndex": null,
-    "b-vColorIndex": null,
     "variableType": null,
     "radialVelocity": null,
     "properMotion": {
@@ -108,7 +103,6 @@
     },
     "radius": null,
     "luminosity": null,
-    "surfaceGravity": null,
     "temperature": {
       "kelvin": null,
       "celsius": null,
@@ -152,8 +146,6 @@
     "absoluteMagnitude": -30.9,
     "apparentDimensions": null,
     "spectralType": null,
-    "u-bColorIndex": null,
-    "b-vColorIndex": 0.81,
     "variableType": null,
     "radialVelocity": null,
     "properMotion": {
@@ -180,7 +172,6 @@
     },
     "radius": null,
     "luminosity": null,
-    "surfaceGravity": null,
     "temperature": {
       "kelvin": null,
       "celsius": null,
@@ -224,8 +215,6 @@
     "absoluteMagnitude": -6.5,
     "apparentDimensions": null,
     "spectralType": "O9.7Iab",
-    "u-bColorIndex": -0.3,
-    "b-vColorIndex": 0.81,
     "variableType": "Ellipsoidal variable",
     "radialVelocity": "-2.70±3.2 km/s",
     "properMotion": {
@@ -252,7 +241,6 @@
     },
     "radius": 14609700,
     "luminosity": "3-4×105 L☉",
-    "surfaceGravity": "3.31±0.07 cgs",
     "temperature": {
       "kelvin": 31000.0,
       "celsius": 30726.85,
@@ -297,8 +285,6 @@
     "absoluteMagnitude": -4.5,
     "apparentDimensions": null,
     "spectralType": "WN 4-6",
-    "u-bColorIndex": null,
-    "b-vColorIndex": null,
     "variableType": null,
     "radialVelocity": "208+113-127 km/s",
     "properMotion": {
@@ -325,7 +311,6 @@
     },
     "radius": 1391400,
     "luminosity": "209,000+93,000-64,000 L☉",
-    "surfaceGravity": null,
     "temperature": {
       "kelvin": 80000.0,
       "celsius": 79726.85,
@@ -366,8 +351,6 @@
     "absoluteMagnitude": null,
     "apparentDimensions": null,
     "spectralType": null,
-    "u-bColorIndex": null,
-    "b-vColorIndex": null,
     "variableType": null,
     "radialVelocity": null,
     "properMotion": {
@@ -394,7 +377,6 @@
     },
     "radius": null,
     "luminosity": null,
-    "surfaceGravity": null,
     "temperature": {
       "kelvin": null,
       "celsius": null,
@@ -428,8 +410,6 @@
     "absoluteMagnitude": null,
     "apparentDimensions": null,
     "spectralType": null,
-    "u-bColorIndex": null,
-    "b-vColorIndex": null,
     "variableType": null,
     "radialVelocity": null,
     "properMotion": {
@@ -456,7 +436,6 @@
     },
     "radius": null,
     "luminosity": 1000000000000,
-    "surfaceGravity": null,
     "temperature": {
       "kelvin": null,
       "celsius": null,
@@ -496,8 +475,6 @@
     "absoluteMagnitude": null,
     "apparentDimensions": null,
     "spectralType": null,
-    "u-bColorIndex": null,
-    "b-vColorIndex": null,
     "variableType": null,
     "radialVelocity": null,
     "properMotion": {
@@ -524,7 +501,6 @@
     },
     "radius": null,
     "luminosity": null,
-    "surfaceGravity": null,
     "temperature": {
       "kelvin": null,
       "celsius": null,
@@ -564,8 +540,6 @@
     "absoluteMagnitude": null,
     "apparentDimensions": null,
     "spectralType": null,
-    "u-bColorIndex": null,
-    "b-vColorIndex": null,
     "variableType": null,
     "radialVelocity": null,
     "properMotion": {
@@ -592,7 +566,6 @@
     },
     "radius": null,
     "luminosity": null,
-    "surfaceGravity": null,
     "temperature": {
       "kelvin": null,
       "celsius": null,
@@ -631,8 +604,6 @@
     "absoluteMagnitude": 15,
     "apparentDimensions": null,
     "spectralType": null,
-    "u-bColorIndex": null,
-    "b-vColorIndex": null,
     "variableType": null,
     "radialVelocity": null,
     "properMotion": {
@@ -659,7 +630,6 @@
     },
     "radius": 0.468,
     "luminosity": "5×10 15 L solar",
-    "surfaceGravity": null,
     "temperature": {
       "kelvin": 112.5,
       "celsius": -160.65,
@@ -700,8 +670,6 @@
     "absoluteMagnitude": null,
     "apparentDimensions": null,
     "spectralType": null,
-    "u-bColorIndex": null,
-    "b-vColorIndex": null,
     "variableType": null,
     "radialVelocity": null,
     "properMotion": {
@@ -728,7 +696,6 @@
     },
     "radius": null,
     "luminosity": null,
-    "surfaceGravity": null,
     "temperature": {
       "kelvin": null,
       "celsius": null,
@@ -762,8 +729,6 @@
     "absoluteMagnitude": -31.5,
     "apparentDimensions": null,
     "spectralType": null,
-    "u-bColorIndex": null,
-    "b-vColorIndex": null,
     "variableType": null,
     "radialVelocity": null,
     "properMotion": {
@@ -790,7 +755,6 @@
     },
     "radius": null,
     "luminosity": "10^41 watts",
-    "surfaceGravity": null,
     "temperature": {
       "kelvin": null,
       "celsius": null,
