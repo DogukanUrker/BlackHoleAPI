@@ -513,7 +513,7 @@
     },
     "constellation": "Canes Venatici",
     "rightAscension": "12h 28m 24.9s",
-    "declination": "+31° 28' 38",
+    "declination": "+31° 28' 38″",
     "coordinates": "12h 28m 24.97s, +31° 28' 37.7″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2028%2024.966%2B31%2028%2037.63&fov=0.03&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": 2.219,
