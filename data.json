@@ -266,6 +266,77 @@
     }
   },
   {
+    "id": null,
+    "name": [
+      "Messier 77",
+      "Cetus A",
+      "M77",
+      "NGC 1068",
+      "3C 71",
+      "4C -00.13",
+      "Arp 37",
+      "UGC 2188",
+      "PGC 10266"
+    ],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Messier_77_spiral_galaxy_by_HST.jpg",
+    "type": "(R)SA(rs)b",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Cetus",
+    "rightAscension": "02h 42m 40.771s",
+    "declination": "−00° 00′ 47.84″",
+    "coordinates": "02h 42m 40.7s, −00° 00′ 48″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=02%2042%2040.700-00%2000%2047.84&fov=0.60&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 1137,
+    "apparentMagnitude": 8.9,
+    "absoluteMagnitude": null,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": "9.6",
+      "number": 9.6,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "year": 1780,
+      "location": null,
+      "discoverer": "Pierre Méchain"
+    },
+    "solarmass": {
+      "text": "1 billion M☉",
+      "number": 1000000000
+    },
+    "radius": null,
+    "luminosity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 4.25732871266136e23,
+      "km": 425732871266136000000,
+      "lightyear": 45000000,
+      "gpc": 0.013797060849062551,
+      "gly": 0.045030821917806
+    }
+  },
+  {
     "id": 1,
     "name": [
       "Centaurus A",
