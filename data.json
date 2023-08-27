@@ -61,6 +61,75 @@
     }
   },
   {
+    "id": null,
+    "name": [
+      "Messier 32",
+      "M 32",
+      "NGC 221",
+      "UGC 452",
+      "PGC 2555",
+      "Arp 168",
+      "LEDA 2555"
+    ],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/M32_Francione_inverted.jpg",
+    "type": "cE2",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Andromeda",
+    "rightAscension": "00h 42m 41.8s",
+    "declination": "+40° 51′ 55″",
+    "coordinates": "00h 42m 41.8s, 40° 51′ 55″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=13%2029%2052.698%2B47%2011%2042.93&fov=0.73&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": -200,
+    "apparentMagnitude": 8.08,
+    "absoluteMagnitude": null,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "year": 1749,
+      "location": null,
+      "discoverer": "Guillaume Le Gentil"
+    },
+    "solarmass": {
+      "text": "3 billion M☉",
+      "number": 3000000000
+    },
+    "radius": null,
+    "luminosity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 2.3698003817674056e22,
+      "km": 23698003817674060000,
+      "lightyear": 2504880.98,
+      "gpc": 0.0007679998955715429,
+      "gly": 0.002506596651903986
+    }
+  },
+  {
     "id": 1,
     "name": [
       "Centaurus A",
