@@ -18,15 +18,6 @@
     "redshift": null,
     "apparentMagnitude": null,
     "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": null,
       "location": null,
@@ -79,22 +70,13 @@
     "redshift": -200,
     "apparentMagnitude": 8.08,
     "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1749,
       "location": null,
       "discoverer": "Guillaume Le Gentil"
     },
     "solarmass": {
-      "text": "3 billion M☉",
+      "text": "3 billion",
       "number": 3000000000
     },
     "radius": null,
@@ -146,22 +128,13 @@
     "redshift": 0.001544,
     "apparentMagnitude": 8.4,
     "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1773,
       "location": null,
       "discoverer": "Charles Messier"
     },
     "solarmass": {
-      "text": "160 billion M☉",
+      "text": "160 billion",
       "number": 160000000000
     },
     "radius": null,
@@ -206,15 +179,6 @@
     "redshift": -0.000113,
     "apparentMagnitude": 6.94,
     "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1774,
       "location": null,
@@ -259,22 +223,13 @@
     "redshift": 0.003726,
     "apparentMagnitude": 8.8,
     "absoluteMagnitude": -22.3,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1779,
       "location": null,
       "discoverer": "Johann Gottfried Koehler"
     },
     "solarmass": {
-      "text": "6.5 billion M☉",
+      "text": "6.5 billion",
       "number": 6500000000
     },
     "radius": null,
@@ -322,22 +277,13 @@
     "redshift": 1137,
     "apparentMagnitude": 8.9,
     "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1780,
       "location": null,
       "discoverer": "Pierre Méchain"
     },
     "solarmass": {
-      "text": "1 billion M☉",
+      "text": "1 billion",
       "number": 1000000000
     },
     "radius": null,
@@ -382,15 +328,6 @@
     "redshift": 1060,
     "apparentMagnitude": 9.1,
     "absoluteMagnitude": -22.41,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1781,
       "location": null,
@@ -442,22 +379,13 @@
     "redshift": 547,
     "apparentMagnitude": 6.84,
     "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1826,
       "location": "Parramatta, in New South Wales, Australia",
       "discoverer": "James Dunlop"
     },
     "solarmass": {
-      "text": "55 million M☉",
+      "text": "55 million",
       "number": 55000000
     },
     "radius": null,
@@ -503,22 +431,13 @@
     "redshift": 0.006011,
     "apparentMagnitude": 10.0,
     "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1892,
       "location": null,
       "discoverer": "Edward Emerson Barnard"
     },
     "solarmass": {
-      "text": "3 billion M☉",
+      "text": "3 billion",
       "number": 3000000000
     },
     "radius": "30 arcsec",
@@ -556,15 +475,6 @@
     "redshift": 0.049,
     "apparentMagnitude": 14,
     "absoluteMagnitude": null,
-    "apparentDimensions": "0′.323 × 0′.278",
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1942,
       "location": null,
@@ -619,22 +529,13 @@
     "redshift": 2.219,
     "apparentMagnitude": 15.9,
     "absoluteMagnitude": -30.9,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1957,
       "location": "Bologna in Italy",
       "discoverer": "Maarten Schmidt"
     },
     "solarmass": {
-      "text": "66 billion M☉",
+      "text": "66 billion",
       "number": 66000000000
     },
     "radius": null,
@@ -682,22 +583,13 @@
     "redshift": null,
     "apparentMagnitude": 8.95,
     "absoluteMagnitude": -6.5,
-    "apparentDimensions": null,
-    "spectralType": "O9.7Iab",
-    "variableType": "Ellipsoidal variable",
-    "radialVelocity": "-2.70±3.2 km/s",
-    "properMotion": {
-      "ra": "-3.812±0.015 mas/yr",
-      "dec": "-6.310±0.017 mas/yr"
-    },
-    "parallax": "0.4439 ± 0.0149 mas",
     "discovery": {
       "year": 1964,
       "location": "Royal Greenwich Observatory",
       "discoverer": "Louise Webster and Paul Murdin"
     },
     "solarmass": {
-      "text": "21.2 M☉",
+      "text": "21.2",
       "number": 21.2
     },
     "radius": 14609700,
@@ -746,22 +638,13 @@
     "redshift": null,
     "apparentMagnitude": 13.192,
     "absoluteMagnitude": -4.5,
-    "apparentDimensions": null,
-    "spectralType": "WN 4-6",
-    "variableType": null,
-    "radialVelocity": "208+113-127 km/s",
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1967,
       "location": null,
       "discoverer": null
     },
     "solarmass": {
-      "text": "8-14 M☉",
+      "text": "8-14",
       "number": "8-14"
     },
     "radius": 1391400,
@@ -806,15 +689,6 @@
     "redshift": 0.051,
     "apparentMagnitude": 14.4,
     "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1975,
       "location": null,
@@ -907,22 +781,13 @@
     "redshift": 1760,
     "apparentMagnitude": 9.4,
     "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1977,
       "location": null,
       "discoverer": "François Schweizer"
     },
     "solarmass": {
-      "text": "140 million M☉",
+      "text": "140 million",
       "number": 140000000
     },
     "radius": 0.41,
@@ -960,15 +825,6 @@
     "redshift": 5434,
     "apparentMagnitude": 13.9,
     "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1980,
       "location": "James Clerk Maxwell Telescope",
@@ -1019,15 +875,6 @@
     "redshift": 0.044,
     "apparentMagnitude": null,
     "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1995,
       "location": "Whipple Observatory",
@@ -1077,22 +924,13 @@
     "redshift": 3.911,
     "apparentMagnitude": 15.2,
     "absoluteMagnitude": 15,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 1998,
       "location": null,
       "discoverer": "Totten, Edward J"
     },
     "solarmass": {
-      "text": "23 billion M☉",
+      "text": "23 billion",
       "number": 23000000000
     },
     "radius": 0.468,
@@ -1143,15 +981,6 @@
     "redshift": 0.286041,
     "apparentMagnitude": 16.0,
     "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 2005,
       "location": "University of Liège, Belgium",
@@ -1215,22 +1044,13 @@
     "redshift": -0.001004,
     "apparentMagnitude": 3.44,
     "absoluteMagnitude": -21.5,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 2005,
       "location": null,
       "discoverer": null
     },
     "solarmass": {
-      "text": "150 million M☉",
+      "text": "150 million",
       "number": 150000000
     },
     "radius": null,
@@ -1275,22 +1095,13 @@
     "redshift": 16500,
     "apparentMagnitude": 17.2,
     "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 2006,
       "location": null,
       "discoverer": null
     },
     "solarmass": {
-      "text": "15 billion M☉",
+      "text": "15 billion",
       "number": 15000000000
     },
     "radius": null,
@@ -1328,22 +1139,13 @@
     "redshift": 3.366,
     "apparentMagnitude": 16.5,
     "absoluteMagnitude": -31.5,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
     "discovery": {
       "year": 2009,
       "location": null,
       "discoverer": "Team of astronomers"
     },
     "solarmass": {
-      "text": "40 billion M☉",
+      "text": "40 billion",
       "number": 40000000000
     },
     "radius": null,
