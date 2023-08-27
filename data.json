@@ -206,6 +206,74 @@
   },
   {
     "id": null,
+    "name": [
+      "Messier 81",
+      "NGC 3031",
+      "UGC 5318",
+      "MCG+12-10-010",
+      "PGC 28630",
+      "Bode's Galaxy"
+    ],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Messier_81_HST.jpg",
+    "type": "SA(s)ab, LINER",
+    "age": {
+      "text": "600 million",
+      "number": 600000000
+    },
+    "constellation": "Ursa Major",
+    "rightAscension": "09h 55m 33.2s",
+    "declination": "+69° 3′ 55″",
+    "coordinates": "09h 55m 33.2s, +69° 03′ 55″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=09%2055%2033.200%2B69%2003%2055.00&fov=0.97&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": -0.000113,
+    "apparentMagnitude": 6.94,
+    "absoluteMagnitude": null,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": "6.9",
+      "number": 6.9,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "year": 1774,
+      "location": null,
+      "discoverer": "Johann Elert Bode"
+    },
+    "solarmass": {
+      "text": "70 million",
+      "number": 70000000
+    },
+    "radius": "29.44 kiloparsecs",
+    "luminosity": 6.9,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 1.1163661957645343e23,
+      "km": 111636619576453450000,
+      "lightyear": 11800000,
+      "gpc": 0.003617895955976402,
+      "gly": 0.01180808219178024
+    }
+  },
+  {
+    "id": null,
     "name": ["Messier 60", "M60", "NGC 4649", "PGC 42831", "UGC 7898"],
     "list": "Supermassive Black Holes",
     "kind": "Galaxy",
