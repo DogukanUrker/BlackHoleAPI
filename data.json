@@ -2,6 +2,9 @@
   {
     "id": null,
     "name": [null],
+    "list": "Supermassive Black Holes",
+    "kind": null,
+    "note": null,
     "image": null,
     "type": null,
     "age": {
@@ -68,6 +71,8 @@
       "4U 1322–42",
       "Caldwell 77"
     ],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/ESO_Centaurus_A_LABOCA.jpg",
     "type": "S0 pec or Ep",
     "age": {
@@ -135,6 +140,8 @@
       "PKS 2254-367",
       "PGC 070090"
     ],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/IC_1459_U2BM0104T.jpg",
     "type": "E3",
     "age": {
@@ -194,6 +201,8 @@
   {
     "id": 1,
     "name": ["AP Librae", "LEDA 54592", "PKS 1514-24", "QSO B1514-24"],
+    "list": "Supermassive Black Holes",
+    "kind": "BL Lacertae Object",
     "image": "https://th.bing.com/th/id/OIP.3wqsIAWEp3SVVuspUWUkNwHaHH?pid=ImgDet&rs=1",
     "type": "BL Lac",
     "age": {
@@ -263,6 +272,8 @@
       "2E 2728",
       "Gaia DR1 4015522739308729728"
     ],
+    "list": "Supermassive Black Holes",
+    "kind": "Quasar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/TON_618_SDSS9_version_2.jpg",
     "type": "Quasar",
     "age": {
@@ -332,6 +343,8 @@
       "SAO 69181",
       "V1357 Cyg"
     ],
+    "list": "Stellar Black Holes",
+    "kind": "Microquasar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Chandra_image_of_Cygnus_X-1.jpg",
     "type": "Microquasar",
     "age": {
@@ -402,6 +415,8 @@
       "3U 2030+40",
       "4U 2030+40"
     ],
+    "list": "Stellar Black Holes",
+    "kind": "Microquasar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cygnus_X3.jpg",
     "type": "Microquasar",
     "age": {
@@ -468,6 +483,8 @@
       "7C 180717.90+694858.00",
       "QSO B1807+698"
     ],
+    "list": "Supermassive Black Holes",
+    "kind": "BL Lacertae Object",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/3C-371-jet-O5GV07NEQ.gif",
     "type": "BL Lac, FRI RG",
     "age": {
@@ -575,6 +592,8 @@
       "MSH 03-3-01",
       "WMAP 138"
     ],
+    "list": "Supermassive Black Holes",
+    "kind": "Lenticular Galaxy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ngc1316_hst.jpg",
     "type": "(R')SAB(s)00",
     "age": {
@@ -634,6 +653,8 @@
   {
     "id": 6,
     "name": ["Arp 220", "IC 1127", "IC 4553", "UGC 9913", "PGC 55497"],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Arp_220_-_JWST%2C_HST.png",
     "type": "S?",
     "age": {
@@ -699,71 +720,8 @@
       "WISE J234704.83+514217.9",
       "Gaia DR2 1945016660584494208"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/QSOB2344p514Location.png",
-    "type": "Blazar",
-    "age": {
-      "text": null,
-      "number": null
-    },
-    "constellation": "Cassiopeia",
-    "rightAscension": "23h 47m 04.838s",
-    "declination": "+51° 42′ 17.88″",
-    "coordinates": "23h 47m 04.838s, +51° 42′ 17.88″",
-    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=23%2047%2004.838%2B51%2042%2017.88&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 0.044,
-    "apparentMagnitude": null,
-    "absoluteMagnitude": null,
-    "apparentDimensions": null,
-    "spectralType": null,
-    "variableType": null,
-    "radialVelocity": null,
-    "properMotion": {
-      "ra": null,
-      "dec": null
-    },
-    "parallax": null,
-    "brightness": {
-      "text": null,
-      "number": null,
-      "sunTimes": {
-        "text": null,
-        "number": null
-      }
-    },
-    "discovery": {
-      "year": 1995,
-      "location": "Whipple Observatory",
-      "discoverer": "Whipple Collaboration"
-    },
-    "solarmass": {
-      "text": null,
-      "number": null
-    },
-    "radius": null,
-    "luminosity": null,
-    "temperature": {
-      "kelvin": null,
-      "celsius": null,
-      "fahrenheit": null
-    },
-    "rotation": null,
-    "distance": {
-      "m": 4.730365236e25,
-      "km": 4.730365236e22,
-      "lightyear": 5000000000,
-      "gpc": 1.53300676100695,
-      "gly": 5.0034246575340005
-    }
-  },
-  {
-    "id": 8,
-    "name": [
-      "1ES 2344+514",
-      "TeV J2347+517",
-      "2MASS J23470484+5142178",
-      "WISE J234704.83+514217.9",
-      "Gaia DR2 1945016660584494208"
-    ],
+    "list": "Supermassive Black Holes",
+    "kind": "Blazar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/QSOB2344p514Location.png",
     "type": "Blazar",
     "age": {
@@ -828,6 +786,8 @@
       "QSO B0827+5255",
       "QSO J0831+5245"
     ],
+    "list": "Supermassive Black Holes",
+    "kind": "Quasar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Quasar_in_Water_Vapor_concept.jpg",
     "type": "broad absorption line (BAL) quasar, hyperluminous infrared galaxy",
     "age": {
@@ -900,6 +860,8 @@
       "RBS 597",
       "1RXS J045230.4-295329"
     ],
+    "list": "Supermassive Black Holes",
+    "kind": "Quasar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Quasar_HE0450-2958.jpg",
     "type": "Sy1",
     "age": {
@@ -966,6 +928,8 @@
       "RX J0405.8+3803",
       "PGC 2820486"
     ],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
     "image": "https://ibb.co/VCM5Zgy",
     "type": "Sy",
     "age": {
@@ -1025,6 +989,8 @@
   {
     "id": 11,
     "name": ["S5 0014+81", "6C B0014+8120", "Q0014+813"],
+    "list": "Supermassive Black Holes",
+    "kind": "Quasar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Black-hole-feeding-accreting-esa-nasa.jpg",
     "type": "Quasar",
     "age": {
