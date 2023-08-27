@@ -34,7 +34,7 @@
       }
     },
     "discovery": {
-      "date": null,
+      "year": null,
       "location": null,
       "discoverer": null
     },
@@ -100,7 +100,7 @@
       }
     },
     "discovery": {
-      "date": 1826,
+      "year": 1826,
       "location": "Parramatta, in New South Wales, Australia",
       "discoverer": "James Dunlop"
     },
@@ -159,7 +159,7 @@
       }
     },
     "discovery": {
-      "date": 1942,
+      "year": 1942,
       "location": null,
       "discoverer": "Martha D. Ashbrook"
     },
@@ -228,7 +228,7 @@
       }
     },
     "discovery": {
-      "date": 1957,
+      "year": 1957,
       "location": "Bologna in Italy",
       "discoverer": "Maarten Schmidt"
     },
@@ -297,7 +297,7 @@
       }
     },
     "discovery": {
-      "date": 1964,
+      "year": 1964,
       "location": "Royal Greenwich Observatory",
       "discoverer": "Louise Webster and Paul Murdin"
     },
@@ -367,7 +367,7 @@
       }
     },
     "discovery": {
-      "date": 1967,
+      "year": 1967,
       "location": null,
       "discoverer": null
     },
@@ -433,7 +433,7 @@
       }
     },
     "discovery": {
-      "date": 1975,
+      "year": 1975,
       "location": null,
       "discoverer": "Miller"
     },
@@ -540,7 +540,7 @@
       }
     },
     "discovery": {
-      "date": 1977,
+      "year": 1977,
       "location": null,
       "discoverer": "François Schweizer"
     },
@@ -599,7 +599,7 @@
       }
     },
     "discovery": {
-      "date": 1980,
+      "year": 1980,
       "location": "James Clerk Maxwell Telescope",
       "discoverer": "IRAS"
     },
@@ -664,7 +664,7 @@
       }
     },
     "discovery": {
-      "date": 1995,
+      "year": 1995,
       "location": "Whipple Observatory",
       "discoverer": "Whipple Collaboration"
     },
@@ -729,7 +729,7 @@
       }
     },
     "discovery": {
-      "date": 1995,
+      "year": 1995,
       "location": "Whipple Observatory",
       "discoverer": "Whipple Collaboration"
     },
@@ -793,7 +793,7 @@
       }
     },
     "discovery": {
-      "date": 1998,
+      "year": 1998,
       "location": null,
       "discoverer": "Totten, Edward J"
     },
@@ -815,6 +815,78 @@
       "lightyear": 23483262380.626083,
       "gpc": 7.2,
       "gly": 23.6
+    }
+  },
+  {
+    "id": null,
+    "name": [
+      "HE0450-2958",
+      "LEDA 75249",
+      "QSO B0450-2958",
+      "2MASSI J0452300-295335",
+      "6dFGS gJ045230.1-295335",
+      "2MASX J04523006-2953353",
+      "NVSS J045230-295336",
+      "IRAS F04505-2958",
+      "QSO B0450-299",
+      "IRAS 04505-2958",
+      "RBS 597",
+      "1RXS J045230.4-295329"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Quasar_HE0450-2958.jpg",
+    "type": "Sy1",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Caelum",
+    "rightAscension": "04h 52m 30.0s",
+    "declination": "−29° 53′ 35″",
+    "coordinates": "04h 52m 30.0s, −29° 53′ 35″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=04%2052%2030.000-29%2053%2035.00&fov=0.06&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.286041,
+    "apparentMagnitude": 16.0,
+    "absoluteMagnitude": null,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "year": 2005,
+      "location": "University of Liège, Belgium",
+      "discoverer": "Pierre Magain"
+    },
+    "solarmass": {
+      "text": null,
+      "number": null
+    },
+    "radius": null,
+    "luminosity": "Under-luminous",
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 2.83821914177424e25,
+      "km": 2.83821914177424e22,
+      "lightyear": 3000000000,
+      "gpc": 0.91980405660417,
+      "gly": 3.0020547945204
     }
   },
   {
@@ -859,7 +931,7 @@
       }
     },
     "discovery": {
-      "date": 2006,
+      "year": 2006,
       "location": null,
       "discoverer": null
     },
@@ -918,7 +990,7 @@
       }
     },
     "discovery": {
-      "date": 2009,
+      "year": 2009,
       "location": null,
       "discoverer": "Team of astronomers"
     },
