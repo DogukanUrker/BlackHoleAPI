@@ -205,6 +205,67 @@
     }
   },
   {
+    "id": null,
+    "name": ["Messier 60", "M60", "NGC 4649", "PGC 42831", "UGC 7898"],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Messier_60_-_Hubble_%282013-9-24%29.jpg",
+    "type": "E1.5 or S0",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Virgo",
+    "rightAscension": "12h 43m 40.008s",
+    "declination": "+11° 33′ 09.40″",
+    "coordinates": "12h 43m 39.6s, +11° 33′ 09″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2043%2040.008%2B11%2033%2009.40&fov=0.24&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.003726,
+    "apparentMagnitude": 8.8,
+    "absoluteMagnitude": -22.3,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": "60 Billion",
+        "number": 60000000000
+      }
+    },
+    "discovery": {
+      "year": 1779,
+      "location": null,
+      "discoverer": "Johann Gottfried Koehler"
+    },
+    "solarmass": {
+      "text": "6.5 billion M☉",
+      "number": 6500000000
+    },
+    "radius": null,
+    "luminosity": "60 billion suns",
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 5.3605625597617126e23,
+      "km": 536056255976171300000,
+      "lightyear": 56661190.96509258,
+      "gpc": 0.017372397767238566,
+      "gly": 0.05669999999999738
+    }
+  },
+  {
     "id": 1,
     "name": [
       "Centaurus A",
