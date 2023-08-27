@@ -4,7 +4,6 @@
     "name": [null],
     "list": "Supermassive Black Holes",
     "kind": null,
-    "note": null,
     "image": null,
     "type": null,
     "age": {
@@ -916,6 +915,86 @@
       "lightyear": 3000000000,
       "gpc": 0.91980405660417,
       "gly": 3.0020547945204
+    }
+  },
+  {
+    "id": null,
+    "name": [
+      "Andromeda Galaxy",
+      "Messier 31",
+      "M31",
+      "NGC 224",
+      "UGC 454",
+      "PGC 2557",
+      "2C 56 (Core)",
+      "CGCG 535-17",
+      "MCG +07-02-016",
+      "IRAS 00400+4059",
+      "2MASX J00424433+4116074",
+      "GC 116",
+      "h 50",
+      "Bode 3",
+      "Flamsteed 58",
+      "Hevelius 32",
+      "Ha 3.3",
+      "IRC +40013"
+    ],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/M31_09-01-2011_%28cropped%29.jpg",
+    "type": "SA(s)b",
+    "age": {
+      "text": "10 billion",
+      "number": 10000000000
+    },
+    "constellation": "Andromeda",
+    "rightAscension": "00h 42m 44.3s",
+    "declination": "+41° 16′ 9″",
+    "coordinates": "00h 42m 44.3s, +41° 16′ 9″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=00%2042%2044.300%2B41%2016%2009.00&fov=4.55&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": -0.001004,
+    "apparentMagnitude": 3.44,
+    "absoluteMagnitude": -21.5,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": "22.3",
+      "number": 22.3,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "year": 2005,
+      "location": null,
+      "discoverer": null
+    },
+    "solarmass": {
+      "text": "150 million M☉",
+      "number": 150000000
+    },
+    "radius": null,
+    "luminosity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": null,
+    "distance": {
+      "m": 2.3605433497149864e22,
+      "km": 23605433497149866000,
+      "lightyear": 2495096.2894,
+      "gpc": 0.0007649998962027107,
+      "gly": 0.00249680525946111
     }
   },
   {
