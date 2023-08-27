@@ -125,6 +125,73 @@
     }
   },
   {
+    "id": null,
+    "name": [
+      "IC 1459",
+      "IC 5265",
+      "ESO 406- G030",
+      "AM 2254-364",
+      "MCG -06-50-016",
+      "PKS 2254-367",
+      "PGC 070090"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/IC_1459_U2BM0104T.jpg",
+    "type": "E3",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Grus",
+    "rightAscension": "22h 57m 10.6s",
+    "declination": "−36° 27′ 44″",
+    "coordinates": "22h 57m 10.6s,−36° 27′ 44″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=22%2057%2010.600-36%2027%2044.00&fov=0.37&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.006011,
+    "apparentMagnitude": 10.0,
+    "absoluteMagnitude": null,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "year": 1892,
+      "location": null,
+      "discoverer": "Edward Emerson Barnard"
+    },
+    "solarmass": {
+      "text": "3 billion M☉",
+      "number": 3000000000
+    },
+    "radius": "30 arcsec",
+    "luminosity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "rotation": "170+/-20 km s^-1^",
+    "distance": {
+      "m": 8.036116712164825e23,
+      "km": 803611671216482500000,
+      "lightyear": 84941820.6707737,
+      "gpc": 0.026043277076107197,
+      "gly": 0.08499999999999606
+    }
+  },
+  {
     "id": 1,
     "name": ["AP Librae", "LEDA 54592", "PKS 1514-24", "QSO B1514-24"],
     "image": "https://th.bing.com/th/id/OIP.3wqsIAWEp3SVVuspUWUkNwHaHH?pid=ImgDet&rs=1",
