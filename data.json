@@ -305,6 +305,62 @@
   {
     "id": null,
     "name": [
+      "Messier 87",
+      "Virgo A",
+      "M87",
+      "Virgo X-1",
+      "NGC 4486",
+      "UGC 7654",
+      "PGC 41361",
+      "VCC 1316",
+      "Arp 152",
+      "3C 274",
+      "3U 1228+12"
+    ],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg",
+    "type": "E+0-1 pec, NLRG Sy",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Virgo",
+    "rightAscension": "12h 30m 49.42338s",
+    "declination": "+12° 23′ 28.0439″",
+    "coordinates": "12h 30m 49.4s, +12° 23′ 28″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2030%2049.423%2B12%2023%2028.04&fov=0.33&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.00428,
+    "apparentMagnitude": 8.6,
+    "absoluteMagnitude": -22,
+    "discovery": {
+      "year": 1781,
+      "location": null,
+      "discoverer": "Charles Messier"
+    },
+    "solarmass": {
+      "text": "5 billion",
+      "number": 5000000000
+    },
+    "radius": "130000 light-years",
+    "luminosity": -22,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "distance": {
+      "m": 5.170669922927158e23,
+      "km": 517066992292715800000,
+      "lightyear": 54654024.21,
+      "gpc": 0.016756997726033507,
+      "gly": 0.05469145847315484
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Messier_87#Supermassive_black_hole_M87*"
+  },
+  {
+    "id": null,
+    "name": [
       "Messier 84",
       "M84",
       "NGC 4374",
