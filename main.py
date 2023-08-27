@@ -16,11 +16,23 @@ app.add_middleware(
 )
 
 
-@app.get("/blackholes")
-def blackHoles():
+def data():
     with open("data.json") as f:
         data = json.load(f)
     return data
+
+
+@app.get("/data")
+def blackHoles():
+    return data()
+
+
+@app.get("/data/{id}")
+def getByID(id):
+    for i in data():
+        if i["id"] == int(id):
+            print(i)
+            return i
 
 
 if __name__ == "__main__":
