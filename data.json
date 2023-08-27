@@ -304,6 +304,50 @@
   },
   {
     "id": null,
+    "name": ["Messier 105", "M105", "NGC 3379", "PGC 32256", "UGC 5902"],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Messier105_-_HST_-_Potw1901a.jpg",
+    "type": "E1",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Leo",
+    "rightAscension": "10h 47m 49.600s",
+    "declination": "+12° 34′ 53.87″",
+    "coordinates": "10h 47m 49.6s, +12° 34′ 54″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=10%2047%2049.600%2B12%2034%2053.87&fov=0.21&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": null,
+    "apparentMagnitude": 9.3,
+    "absoluteMagnitude": null,
+    "discovery": {
+      "year": 1781,
+      "location": null,
+      "discoverer": "Pierre Méchain"
+    },
+    "solarmass": {
+      "text": "200 million",
+      "number": 200000000
+    },
+    "radius": "650,000 light years",
+    "luminosity": 10.2,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "distance": {
+      "m": 3.414610811854806e23,
+      "km": 341461081185480700000,
+      "ly": 36092464.76,
+      "gpc": 0.011065998499697017,
+      "gly": 0.03611718562627219
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Messier_105"
+  },
+  {
+    "id": null,
     "name": [
       "Messier 87",
       "Virgo A",
