@@ -34,7 +34,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": null,
       "km": null,
@@ -86,7 +85,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 2.3698003817674056e22,
       "km": 23698003817674060000,
@@ -144,7 +142,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 2.175968008693584e23,
       "km": 217596800869358400000,
@@ -195,7 +192,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 1.1163661957645343e23,
       "km": 111636619576453450000,
@@ -239,7 +235,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 5.3605625597617126e23,
       "km": 536056255976171300000,
@@ -293,7 +288,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 4.25732871266136e23,
       "km": 425732871266136000000,
@@ -344,7 +338,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 5.235160584434443e23,
       "km": 523516058443444400000,
@@ -395,7 +388,6 @@
       "celsius": 5516.85,
       "fahrenheit": 9962.33
     },
-    "rotation": null,
     "distance": {
       "m": 1.040680351983888e23,
       "km": 104068035198388810000,
@@ -447,7 +439,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": "170+/-20 km s^-1^",
     "distance": {
       "m": 8.036116712164825e23,
       "km": 803611671216482500000,
@@ -491,7 +482,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 6.634206799723959e24,
       "km": 6.63420679972396e21,
@@ -538,14 +528,13 @@
       "text": "66 billion",
       "number": 66000000000
     },
-    "radius": null,
-    "luminosity": null,
+    "radius": "1,949 × 10^14 meters",
+    "luminosity": "4 × 10^40 watts",
     "temperature": {
       "kelvin": null,
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 98391596914832000,
       "km": 98391596914832,
@@ -599,7 +588,6 @@
       "celsius": 30726.85,
       "fahrenheit": 55340.33
     },
-    "rotation": "800 times per second",
     "distance": {
       "m": 57425407418350120000,
       "km": 57425407418350120,
@@ -654,7 +642,6 @@
       "celsius": 79726.85,
       "fahrenheit": 143540.33
     },
-    "rotation": null,
     "distance": {
       "m": 227052681720000480000,
       "km": 227052681720000480,
@@ -705,7 +692,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 6.906333244e24,
       "km": 6.906333244e21,
@@ -797,7 +783,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": "16 kpc",
     "distance": {
       "m": 5.861638072402578e23,
       "km": 586163807240257800000,
@@ -841,7 +826,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 2.365182618e24,
       "km": 2.365182618e21,
@@ -891,7 +875,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 4.730365236e25,
       "km": 4.730365236e22,
@@ -940,7 +923,6 @@
       "celsius": -160.65,
       "fahrenheit": -257.17
     },
-    "rotation": null,
     "distance": {
       "m": 2.221688159999995e26,
       "km": 2.22168828385523e23,
@@ -997,7 +979,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 2.83821914177424e25,
       "km": 2.83821914177424e22,
@@ -1060,7 +1041,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 2.3605433497149864e22,
       "km": 23605433497149866000,
@@ -1111,7 +1091,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 7090691216616021e24,
       "km": 7090691216616022e21,
@@ -1155,7 +1134,6 @@
       "celsius": null,
       "fahrenheit": null
     },
-    "rotation": null,
     "distance": {
       "m": 1.14170086e26,
       "km": 1.1417008600000001e23,
