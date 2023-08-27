@@ -546,7 +546,74 @@
     }
   },
   {
-    "id": 8,
+    "id": 9,
+    "name": [
+      "APM 08279+5255",
+      "IRAS F08279+5255",
+      "QSO B0827+5255",
+      "QSO J0831+5245"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Quasar_in_Water_Vapor_concept.jpg",
+    "type": "broad absorption line (BAL) quasar, hyperluminous infrared galaxy",
+    "age": {
+      "text": "2 - 3Gyr",
+      "number": null
+    },
+    "constellation": "Lynx",
+    "rightAscension": "08h 31m 41.70s",
+    "declination": "52° 45′ 16.8″",
+    "coordinates": "08h 31m 41.70s, +52° 45′ 16.8″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=08%2031%2041.700%2B52%2045%2016.80&fov=0.05&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": "3.911",
+    "apparentMagnitude": 15.2,
+    "absoluteMagnitude": 15,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "u-bColorIndex": null,
+    "b-vColorIndex": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": "15.2",
+      "number": 15.2,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "date": 1998,
+      "location": null,
+      "explorer": "Totten, Edward J"
+    },
+    "solarmass": {
+      "text": "23 billion M☉",
+      "number": 23000000000
+    },
+    "radius": 0.468,
+    "luminosity": "5×10 15 L solar",
+    "surfaceGravity": null,
+    "temperature": {
+      "kelvin": "99 −35+91 keV",
+      "celsius": "-174.15 -147.15",
+      "fahrenheit": "-281.47 -232.87"
+    },
+    "rotation": null,
+    "distance": {
+      "m": 2.221688159999995e26,
+      "km": 2.22168828385523e23,
+      "lightyear": 23483262380.626083,
+      "gpc": 7.2,
+      "gly": 23.6
+    }
+  },
+  {
+    "id": 9,
     "name": [
       "4C +37.11",
       "GLXY J0405+380",
@@ -615,7 +682,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "name": ["S5 0014+81", "6C B0014+8120", "Q0014+813"],
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Black-hole-feeding-accreting-esa-nasa.jpg",
     "type": "Quasar",
