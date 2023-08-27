@@ -36,7 +36,7 @@
     "discovery": {
       "date": null,
       "location": null,
-      "explorer": null
+      "discoverer": null
     },
     "solarmass": {
       "text": null,
@@ -56,6 +56,72 @@
       "lightyear": null,
       "gpc": null,
       "gly": null
+    }
+  },
+  {
+    "id": 1,
+    "name": [
+      "Centaurus A",
+      "NGC 5128",
+      "Arp 153",
+      "PGC 46957",
+      "4U 1322–42",
+      "Caldwell 77"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/ESO_Centaurus_A_LABOCA.jpg",
+    "type": "S0 pec or Ep",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Centaurus",
+    "rightAscension": "13h 25m 27.6s",
+    "declination": "−43° 01′ 09″",
+    "coordinates": "13h 25m 27.6s, −43° 01′ 09″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=13%2025%2027.600-43%2001%2009.00&fov=2.48&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 547,
+    "apparentMagnitude": 6.84,
+    "absoluteMagnitude": null,
+    "apparentDimensions": null,
+    "spectralType": null,
+    "variableType": null,
+    "radialVelocity": null,
+    "properMotion": {
+      "ra": null,
+      "dec": null
+    },
+    "parallax": null,
+    "brightness": {
+      "text": null,
+      "number": null,
+      "sunTimes": {
+        "text": null,
+        "number": null
+      }
+    },
+    "discovery": {
+      "date": 1826,
+      "location": "Parramatta, in New South Wales, Australia",
+      "discoverer": "James Dunlop"
+    },
+    "solarmass": {
+      "text": "55 million M☉",
+      "number": 55000000
+    },
+    "radius": null,
+    "luminosity": "2.3 × 10 24 W Hz −1",
+    "temperature": {
+      "kelvin": 5790,
+      "celsius": 5516.85,
+      "fahrenheit": 9962.33
+    },
+    "rotation": null,
+    "distance": {
+      "m": 1.040680351983888e23,
+      "km": 104068035198388810000,
+      "lightyear": 11000000,
+      "gpc": 0.00337261487421529,
+      "gly": 0.0110075342465748
     }
   },
   {
@@ -95,7 +161,7 @@
     "discovery": {
       "date": 1942,
       "location": null,
-      "explorer": "Martha D. Ashbrook"
+      "discoverer": "Martha D. Ashbrook"
     },
     "solarmass": {
       "text": null,
@@ -164,7 +230,7 @@
     "discovery": {
       "date": 1957,
       "location": "Bologna in Italy",
-      "explorer": "Maarten Schmidt"
+      "discoverer": "Maarten Schmidt"
     },
     "solarmass": {
       "text": "66 billion M☉",
@@ -233,7 +299,7 @@
     "discovery": {
       "date": 1964,
       "location": "Royal Greenwich Observatory",
-      "explorer": "Louise Webster and Paul Murdin"
+      "discoverer": "Louise Webster and Paul Murdin"
     },
     "solarmass": {
       "text": "21.2 M☉",
@@ -303,7 +369,7 @@
     "discovery": {
       "date": 1967,
       "location": null,
-      "explorer": null
+      "discoverer": null
     },
     "solarmass": {
       "text": "8-14 M☉",
@@ -369,7 +435,7 @@
     "discovery": {
       "date": 1975,
       "location": null,
-      "explorer": "Miller"
+      "discoverer": "Miller"
     },
     "solarmass": {
       "text": null,
@@ -428,14 +494,14 @@
     "discovery": {
       "date": 1980,
       "location": "James Clerk Maxwell Telescope",
-      "explorer": "IRAS"
+      "discoverer": "IRAS"
     },
     "solarmass": {
       "text": null,
       "number": null
     },
     "radius": null,
-    "luminosity": 1000000000000,
+    "luminosity": "1000000000000",
     "temperature": {
       "kelvin": null,
       "celsius": null,
@@ -493,7 +559,7 @@
     "discovery": {
       "date": 1995,
       "location": "Whipple Observatory",
-      "explorer": "Whipple Collaboration"
+      "discoverer": "Whipple Collaboration"
     },
     "solarmass": {
       "text": null,
@@ -558,7 +624,7 @@
     "discovery": {
       "date": 1995,
       "location": "Whipple Observatory",
-      "explorer": "Whipple Collaboration"
+      "discoverer": "Whipple Collaboration"
     },
     "solarmass": {
       "text": null,
@@ -622,7 +688,7 @@
     "discovery": {
       "date": 1998,
       "location": null,
-      "explorer": "Totten, Edward J"
+      "discoverer": "Totten, Edward J"
     },
     "solarmass": {
       "text": "23 billion M☉",
@@ -688,7 +754,7 @@
     "discovery": {
       "date": 2006,
       "location": null,
-      "explorer": null
+      "discoverer": null
     },
     "solarmass": {
       "text": "15 billion M☉",
@@ -747,7 +813,7 @@
     "discovery": {
       "date": 2009,
       "location": null,
-      "explorer": "Team of astronomers"
+      "discoverer": "Team of astronomers"
     },
     "solarmass": {
       "text": "40 billion M☉",
