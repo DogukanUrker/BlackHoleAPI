@@ -31,7 +31,7 @@ def blackHoles():
 def getByID(id):
     for i in data():
         if str(i["id"]) == id:
-            return
+            return i
     raise HTTPException(status_code=404, detail="Data not found")
 
 
