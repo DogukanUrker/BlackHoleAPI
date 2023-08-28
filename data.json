@@ -1396,47 +1396,52 @@
   },
   {
     "id": 28,
-    "name": [null],
+    "name": [
+      "NGC 1097",
+      "ESO 416- G 20",
+      "PGC 10488",
+      "UGCA 041 Arp 77 Caldwell 67"
+    ],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/NGC1097_-_ESO_-_eso0438d.jpg",
+    "type": "(R'_1:)SB(r'l)bSy1",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Fornax",
+    "rightAscension": "02h 46m 19.0s",
+    "declination": "−30° 16′ 30″",
+    "coordinates": "02h 46m 19.0s, −30° 16′ 30″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=02%2046%2019.000-30%2016%2030.00&fov=0.39&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 1271,
+    "apparentMagnitude": 10.2,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1790,
       "location": null,
-      "discoverer": null
+      "discoverer": "William Herschel"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "140 million",
+      "number": 140000000
     },
-    "radius": null,
-    "luminosity": null,
+    "radius": "5000 light-years",
+    "luminosity": "10 to the 11th solar luminosities",
     "temperature": {
-      "kelvin": null,
-      "celsius": null,
-      "fahrenheit": null
+      "kelvin": 33,
+      "celsius": -240.15,
+      "fahrenheit": -400.27
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 4.25732871266136e23,
+      "km": 425732871266136000000,
+      "ly": 45000000,
+      "gpc": 0.013797060849062551,
+      "gly": 0.045030821917806
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_1097"
   },
   {
     "id": 29,
