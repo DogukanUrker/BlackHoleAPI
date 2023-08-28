@@ -1412,5 +1412,49 @@
       "gly": 12.0760532202199
     },
     "wikipekia": "https://en.wikipedia.org/wiki/S5_0014%2B81"
+  },
+  {
+    "id": null,
+    "name": ["Markarian 501", "Mrk 501", "4C39.49", "PGC 59214", "UGC 10599"],
+    "list": "Supermassive Black Holes",
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/SDSS_Mrk_501.jpg",
+    "type": "S0",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Hercules",
+    "rightAscension": "16h 53m 52.21s",
+    "declination": "39° 45′ 37.6″",
+    "coordinates": "16h 53m 52s, 39° 45′ 38″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=16%2053%2052.210%2B39%2045%2037.60&fov=0.06&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.03364,
+    "apparentMagnitude": null,
+    "absoluteMagnitude": null,
+    "discovery": {
+      "year": null,
+      "location": null,
+      "discoverer": null
+    },
+    "solarmass": {
+      "text": "2 billion 150 million",
+      "number": 2150000000
+    },
+    "radius": "5 arcsec",
+    "luminosity": null,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "distance": {
+      "m": 4.3111402597025414e24,
+      "km": 4.3111402597025416e21,
+      "ly": 455687885.01026833,
+      "gpc": 0.1397145217259398,
+      "gly": 0.4559999999999789
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Markarian_501"
   }
 ]
