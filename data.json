@@ -1046,6 +1046,60 @@
     "wikipekia": "https://en.wikipedia.org/wiki/Sombrero_Galaxy#Central_supermassive_black_hole"
   },
   {
+    "id": null,
+    "name": [
+      "Markarian 421",
+      "Mrk 421",
+      "Mkn 421",
+      "B2 1101+38",
+      "UGC 6132",
+      "PGC 33452",
+      "2E 2393",
+      "QSO B1101+384",
+      "Mark 421"
+    ],
+    "list": "Supermassive Black Holes",
+    "kind": "Blazer",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/SDSS_Mrk_421.jpg",
+    "type": "BL LAC",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Ursa Major",
+    "rightAscension": "11h 04m 27.314s",
+    "declination": "+38° 12′ 31.80″",
+    "coordinates": "11h 04m 27s, +38° 12′ 32″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=11%2004%2027.314%2B38%2012%2031.80&fov=0.05&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.030021,
+    "apparentMagnitude": 12.9,
+    "absoluteMagnitude": 13.3,
+    "discovery": {
+      "year": 1992,
+      "location": "Whipple Observatory",
+      "discoverer": "M. Punch"
+    },
+    "solarmass": {
+      "text": "550 million",
+      "number": 550000000
+    },
+    "radius": null,
+    "luminosity": 13.3,
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "distance": {
+      "m": 3.7559099976145774e24,
+      "km": 3.755909997614578e21,
+      "ly": 397000000,
+      "gpc": 0.12172073682395183,
+      "gly": 0.3972719178081996
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/Markarian_421"
+  },
+  {
     "id": 7,
     "name": [
       "1ES 2344+514",
