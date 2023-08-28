@@ -1,5 +1,5 @@
 import uvicorn
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import json
 
@@ -31,7 +31,8 @@ def blackHoles():
 def getByID(id):
     for i in data():
         if str(i["id"]) == id:
-            return i
+            return
+    raise HTTPException(status_code=404, detail="Data not found")
 
 
 if __name__ == "__main__":
