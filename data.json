@@ -1489,33 +1489,33 @@
   },
   {
     "id": 30,
-    "name": [null],
+    "name": ["NGC 1277", "PGC 12434", "LGG 088"],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/NGC_1277_viewed_by_Hubble.jpg",
+    "type": "S0^+, pec",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Perseus",
+    "rightAscension": "03h 19m 51.5s",
+    "declination": "41° 34′ 25″",
+    "coordinates": "03h 19m 52s,41° 34′ 25″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=03%2019%2051.500%2B41%2034%2025.00&fov=0.05&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.016898,
+    "apparentMagnitude": 14.66,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1875,
       "location": null,
-      "discoverer": null
+      "discoverer": "Lawrence Parsons, 4th Earl of Rosse"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "17 billion",
+      "number": 17000000000
     },
-    "radius": null,
+    "radius": "6 kpc",
     "luminosity": null,
     "temperature": {
       "kelvin": null,
@@ -1523,13 +1523,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 2.269021189317127e24,
+      "km": 2.269021189317127e21,
+      "ly": 239835728.9527728,
+      "gpc": 0.0735339588031262,
+      "gly": 0.2399999999999889
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_1277"
   },
   {
     "id": 31,
