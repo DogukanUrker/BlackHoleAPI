@@ -17,8 +17,8 @@ app.add_middleware(
 
 
 def data():
-    with open("data.json") as f:
-        data = json.load(f)
+    with open("data.json") as file:
+        data = json.load(file)
     return data
 
 
