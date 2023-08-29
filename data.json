@@ -1634,7 +1634,7 @@
     "rightAscension": "09h 19m 18.60430s",
     "declination": "+69° 12′ 11.6429″",
     "coordinates": "09 19 18.396, +69 12 12.10",
-    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=04%2020%2000.402-54%2056%2016.58&fov=0.39&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=09%2019%2018.396%2B69%2012%2012.10&fov=0.15&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
     "apparentMagnitude": 11.79,
     "absoluteMagnitude": -18.84,
@@ -1678,7 +1678,7 @@
     "rightAscension": "10h 01m 57.8s",
     "declination": "+55° 40′ 47″",
     "coordinates": "10 01 57.800, +55 40 47.00",
-    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=04%2020%2000.402-54%2056%2016.58&fov=0.39&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=10%2001%2057.800%2B55%2040%2047.00&fov=0.26&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": 1116,
     "apparentMagnitude": 11.5,
     "absoluteMagnitude": null,
@@ -1728,7 +1728,7 @@
     "rightAscension": "10h 05m 14.0s",
     "declination": "−7° 43′ 07″",
     "coordinates": "10h 05m 14.0s, −07° 43′ 07″",
-    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=04%2020%2000.402-54%2056%2016.58&fov=0.39&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=10%2005%2014.000-07%2043%2007.00&fov=0.39&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": 663,
     "apparentMagnitude": 9.9,
     "absoluteMagnitude": null,
@@ -1759,22 +1759,22 @@
   },
   {
     "id": 36,
-    "name": [null],
+    "name": ["NGC 3377", "UGC 5899", "PGC 32249"],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/NGC_3377_Hubble_WikiSky.jpg",
+    "type": "E5",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Leo",
+    "rightAscension": "10h 47m 42.4s",
+    "declination": "+13° 59′ 08″",
+    "coordinates": "10h 47m 42.4s, +13° 59′ 08″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=10%2047%2042.400%2B13%2059%2008.00&fov=0.10&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.002218,
+    "apparentMagnitude": 10.2,
     "absoluteMagnitude": null,
     "discovery": {
       "year": null,
@@ -1782,10 +1782,10 @@
       "discoverer": null
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "80 million",
+      "number": 80000000
     },
-    "radius": null,
+    "radius": "40000 ly",
     "luminosity": null,
     "temperature": {
       "kelvin": null,
@@ -1793,13 +1793,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 3.4559588910550754e23,
+      "km": 345595889105507600000,
+      "ly": 36529514.302,
+      "gpc": 0.011199998480253215,
+      "gly": 0.03655453451727354
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_3377"
   },
   {
     "id": 37,
