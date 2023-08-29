@@ -1891,47 +1891,47 @@
   },
   {
     "id": 39,
-    "name": [null],
+    "name": ["NGC 4151", "UGC 7166", "PGC 38739"],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/NGC4151_Galaxy_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg",
+    "type": "(R')SAB(rs)ab, Sy1",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Canes Venatici",
+    "rightAscension": "12h 10m 32.6s",
+    "declination": "+39° 24′ 21″",
+    "coordinates": "12 10 32.557 +39 24 21.00",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2010%2032.551%2B39%2024%2021.00&fov=0.23&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.003262,
+    "apparentMagnitude": 11.5,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1787,
       "location": null,
-      "discoverer": null
+      "discoverer": "William Herschel"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "10 million",
+      "number": 10000000
     },
     "radius": null,
     "luminosity": null,
     "temperature": {
-      "kelvin": null,
-      "celsius": null,
-      "fahrenheit": null
+      "kelvin": 1285,
+      "celsius": 1011.85,
+      "fahrenheit": 1853.33
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 4.875370578449317e23,
+      "km": 487537057844931700000,
+      "ly": 51532707.676,
+      "gpc": 0.01579999785606055,
+      "gly": 0.051568004051118006
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4151"
   },
   {
     "id": 40,
