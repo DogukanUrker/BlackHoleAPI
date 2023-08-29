@@ -1665,33 +1665,33 @@
   },
   {
     "id": 34,
-    "name": [null],
+    "name": ["NGC 3079", "UGC 5387", "4C 55.19", "PGC 29050"],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/NGC_3079.jpg",
+    "type": "SB(s)c",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Ursa Major",
+    "rightAscension": "10h 01m 57.8s",
+    "declination": "+55° 40′ 47″",
+    "coordinates": "10 01 57.800, +55 40 47.00",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=04%2020%2000.402-54%2056%2016.58&fov=0.39&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 1116,
+    "apparentMagnitude": 11.5,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 2001,
       "location": null,
-      "discoverer": null
+      "discoverer": "LOTOSS"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "2 million 400 thousand",
+      "number": 2400000
     },
-    "radius": null,
+    "radius": "300 pc",
     "luminosity": null,
     "temperature": {
       "kelvin": null,
@@ -1699,13 +1699,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 4.7271274777440146e23,
+      "km": 472712747774401500000,
+      "ly": 49965776.865161,
+      "gpc": 0.015319574750651294,
+      "gly": 0.04999999999999769
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_3079"
   },
   {
     "id": 35,
