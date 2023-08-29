@@ -1847,31 +1847,31 @@
   },
   {
     "id": 38,
-    "name": [null],
+    "name": ["NGC 3998", "UGC 6946", " MCG +09-20-046", "PGC 37642"],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/NGC3998_-_SDSS_DR14.jpg",
+    "type": "SA00(r):",
     "age": {
-      "text": null,
-      "number": null
+      "text": "10 million",
+      "number": 10000000
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Ursa Major",
+    "rightAscension": "11h 57m 56.1333s",
+    "declination": "+55° 27′ 12.922″",
+    "coordinates": "11h 57m 56.1333s, +55° 27′ 12.922″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=11%2057%2056.133%2B55%2027%2012.92&fov=0.15&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.0035,
+    "apparentMagnitude": 12.1,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1789,
       "location": null,
-      "discoverer": null
+      "discoverer": "William Herschel"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "810 million",
+      "number": 810000000
     },
     "radius": null,
     "luminosity": null,
@@ -1881,13 +1881,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 4.254414729969613e23,
+      "km": 425441472996961350000,
+      "ly": 44969199.1786449,
+      "gpc": 0.013787617275586164,
+      "gly": 0.044999999999997924
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_3998"
   },
   {
     "id": 39,
