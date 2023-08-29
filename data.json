@@ -1709,22 +1709,28 @@
   },
   {
     "id": 35,
-    "name": [null],
+    "name": [
+      "NGC 3115",
+      "Spindle Galaxy",
+      "UGCA 199",
+      "PGC 29265",
+      "Caldwell 53"
+    ],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/NGC_3115.jpg",
+    "type": "S0−",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Sextans",
+    "rightAscension": "10h 05m 14.0s",
+    "declination": "−7° 43′ 07″",
+    "coordinates": "10h 05m 14.0s, −07° 43′ 07″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=04%2020%2000.402-54%2056%2016.58&fov=0.39&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 663,
+    "apparentMagnitude": 9.9,
     "absoluteMagnitude": null,
     "discovery": {
       "year": null,
@@ -1732,24 +1738,24 @@
       "discoverer": null
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "1 billion",
+      "number": 1000000000
     },
-    "radius": null,
-    "luminosity": null,
+    "radius": "30 arcsec",
+    "luminosity": "∼10 {sup 36} erg s",
     "temperature": {
       "kelvin": null,
       "celsius": null,
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 2.987544565934217e23,
+      "km": 298754456593421760000,
+      "ly": 31578370.978781752,
+      "gpc": 0.009681971242411616,
+      "gly": 0.03159999999999854
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_3115#Black_hole"
   },
   {
     "id": 36,
