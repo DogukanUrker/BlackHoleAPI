@@ -1935,47 +1935,47 @@
   },
   {
     "id": 40,
-    "name": [null],
+    "name": ["NGC 4261", "NGC 4261", "UGC 7360", "PGC 39659"],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/NGC_4261_X-ray.png",
+    "type": "E2",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Virgo",
+    "rightAscension": "12h 19m 23.21606s",
+    "declination": "+05° 49′ 29.7000″",
+    "coordinates": "12 19 23.216, +05 49 29.70",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2019%2023.216%2B05%2049%2029.70&fov=0.10&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.007465,
+    "apparentMagnitude": 12.87,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1784,
       "location": null,
-      "discoverer": null
+      "discoverer": "William Herschel"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "490 million",
+      "number": 490000000
     },
     "radius": null,
     "luminosity": null,
     "temperature": {
-      "kelvin": null,
-      "celsius": null,
-      "fahrenheit": null
+      "kelvin": 9863846.2552,
+      "celsius": 9863573.1052,
+      "fahrenheit": 17754463.58936
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 4.875370578449317e23,
+      "km": 906663050231302200000,
+      "ly": 95834360.02737881,
+      "gpc": 0.029382944371749185,
+      "gly": 0.09589999999999557
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4261"
   },
   {
     "id": 41,
