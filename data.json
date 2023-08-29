@@ -1533,33 +1533,33 @@
   },
   {
     "id": 31,
-    "name": [null],
+    "name": ["NGC 1332", "MCG -04-09-011", "PGC 12838"],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/NGC1332-hst-R814GB555.jpg",
+    "type": "E",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Eridanus",
+    "rightAscension": "03h 26m 17s",
+    "declination": "−21° 20′ 4.34″",
+    "coordinates": "03h 26m 17s, −21° 20′ 4.34″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=03%2026%2017.000-21%2020%2004.43&fov=0.27&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
+    "apparentMagnitude": 10.3,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1784,
       "location": null,
-      "discoverer": null
+      "discoverer": "William Herschel"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "660 million",
+      "number": 660000000
     },
-    "radius": null,
+    "radius": "4.5' x 1.4'",
     "luminosity": null,
     "temperature": {
       "kelvin": null,
@@ -1567,81 +1567,81 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 6.627432723797108e23,
+      "km": 662743272379710800000,
+      "ly": 70052019.16495572,
+      "gpc": 0.021478043800413113,
+      "gly": 0.07009999999999676
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_1332"
   },
   {
     "id": 32,
-    "name": [null],
+    "name": ["NGC 1566", "PGC 14897"],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Potw1422a.jpg",
+    "type": "SAB(rs)bc",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Dorado",
+    "rightAscension": "04h 20m 00.40200s",
+    "declination": "−54° 56′ 16.5781″",
+    "coordinates": "04h 20m 00.4s, −54° 56′ 16″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=04%2020%2000.402-54%2056%2016.58&fov=0.39&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.005017,
+    "apparentMagnitude": 9.73,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1826,
       "location": null,
-      "discoverer": null
+      "discoverer": "James Dunlop"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "13 million",
+      "number": 13000000
     },
     "radius": null,
-    "luminosity": null,
+    "luminosity": "3.7×1010 L☉",
     "temperature": {
       "kelvin": null,
       "celsius": null,
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 6.52343591928674e23,
+      "km": 652343591928674100000,
+      "ly": 68952772.07392219,
+      "gpc": 0.021141013155898787,
+      "gly": 0.06899999999999681
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_1566"
   },
   {
     "id": 33,
-    "name": [null],
+    "name": ["NGC 2787", "PGC 26341", "UGC 4914"],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/NGC_2787.jpg",
+    "type": "SB(r)0+",
     "age": {
-      "text": null,
-      "number": null
+      "text": "41 million",
+      "number": 41000000
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Ursa Major",
+    "rightAscension": "09h 19m 18.60430s",
+    "declination": "+69° 12′ 11.6429″",
+    "coordinates": "09 19 18.396, +69 12 12.10",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=04%2020%2000.402-54%2056%2016.58&fov=0.39&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
-    "absoluteMagnitude": null,
+    "apparentMagnitude": 11.79,
+    "absoluteMagnitude": -18.84,
     "discovery": {
-      "year": null,
+      "year": 1788,
       "location": null,
-      "discoverer": null
+      "discoverer": "William Herschel"
     },
     "solarmass": {
       "text": null,
