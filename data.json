@@ -1222,7 +1222,7 @@
       "Mark 421"
     ],
     "list": "Supermassive Black Holes",
-    "kind": "Blazer",
+    "kind": "Blazar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/SDSS_Mrk_421.jpg",
     "type": "BL LAC",
     "age": {
@@ -2029,33 +2029,41 @@
   },
   {
     "id": 42,
-    "name": [null],
+    "name": [
+      "NGC 4459",
+      "CGCG 70-116",
+      "IRAS 12264+1415",
+      "MCG 2-32-83",
+      "PGC 41104",
+      "UGC 7614",
+      "VCC 1154"
+    ],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/NGC_4459_wikisky.jpg",
+    "type": "SA0^+(r), LINER",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Coma Berenices",
+    "rightAscension": "12h 29m 00.0s",
+    "declination": "13° 58′ 42″",
+    "coordinates": "12h 29m 00.0s, 13° 58′ 42″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2028%2060.000%2B13%2058%2042.00&fov=0.12&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.003976,
+    "apparentMagnitude": 11.32,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1787,
       "location": null,
-      "discoverer": null
+      "discoverer": "William Herschel"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "70 million",
+      "number": 70000000
     },
-    "radius": null,
+    "radius": "2.87 astronomical units",
     "luminosity": null,
     "temperature": {
       "kelvin": null,
@@ -2063,13 +2071,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 4.96688349810492e23,
+      "km": 496688349810492050000,
+      "ly": 52500000,
+      "gpc": 0.016096570990572975,
+      "gly": 0.052535958904107
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4459#Super_massive_black_hole"
   },
   {
     "id": 43,
