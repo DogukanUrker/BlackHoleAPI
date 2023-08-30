@@ -2227,47 +2227,54 @@
   },
   {
     "id": 46,
-    "name": [null],
+    "name": [
+      "Messier 58",
+      "NGC 4579",
+      "UGC 7796",
+      "PGC 42168",
+      "VCC 1727",
+      "GC 3121"
+    ],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/M58s_%28visible%29.jpg",
+    "type": "SAB(rs)b;",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Virgo",
+    "rightAscension": "12h 37m 43.5s",
+    "declination": "+11° 49′ 05″",
+    "coordinates": "12h 37m 43.5s, +11° 49′ 05″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2037%2043.500%2B11%2049%2005.00&fov=0.15&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.00506,
+    "apparentMagnitude": 9.7,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1779,
       "location": null,
-      "discoverer": null
+      "discoverer": "Charles Messier"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "70 million",
+      "number": 70000000
     },
     "radius": null,
-    "luminosity": null,
+    "luminosity": 9.8,
     "temperature": {
       "kelvin": null,
       "celsius": null,
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 5.861638072402578e23,
+      "km": 586163807240257800000,
+      "ly": 61957563.31279964,
+      "gpc": 0.018996272690807604,
+      "gly": 0.061999999999997134
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/Messier_58"
   },
   {
     "id": 47,
