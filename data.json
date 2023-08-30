@@ -1328,7 +1328,7 @@
     "discovery": {
       "year": 1786,
       "location": null,
-      "discoverer": "Wilhelm Herschel"
+      "discoverer": "William Herschel"
     },
     "solarmass": {
       "text": "75 million",
@@ -1372,7 +1372,7 @@
     "discovery": {
       "year": 1786,
       "location": null,
-      "discoverer": "Wilhelm Herschel"
+      "discoverer": "William Herschel"
     },
     "solarmass": {
       "text": "40 million",
@@ -2278,33 +2278,40 @@
   },
   {
     "id": 47,
-    "name": [null],
+    "name": [
+      "NGC 4596",
+      "CGCG 70-206",
+      "MCG 2-32-170",
+      "PGC 42401",
+      "UGC 7828",
+      "VCC 1813"
+    ],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/SDSS_NGC_4596.jpg",
+    "type": "SB0^+(r)",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Virgo",
+    "rightAscension": "12h 39m 55.9s",
+    "declination": "10° 10′ 34″",
+    "coordinates": "12h 39m 55.9s, 10° 10′ 34″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2039%2055.900%2B10%2010%2034.00&fov=0.27&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.006311,
+    "apparentMagnitude": 11.35,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1784,
       "location": null,
-      "discoverer": null
+      "discoverer": "William Herschel"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "78 million",
+      "number": 78000000
     },
-    "radius": null,
+    "radius": "5 arcsec",
     "luminosity": null,
     "temperature": {
       "kelvin": null,
@@ -2312,13 +2319,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 5.1998402255184156e23,
+      "km": 519984022551841600000,
+      "ly": 54962354.5516771,
+      "gpc": 0.01685153222571642,
+      "gly": 0.054999999999997454
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4596#Supermassive_black_hole"
   },
   {
     "id": 48,
