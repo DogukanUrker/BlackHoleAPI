@@ -2176,31 +2176,38 @@
   },
   {
     "id": 45,
-    "name": [null],
+    "name": [
+      "NGC 4564",
+      "CGCG 70-186",
+      "MCG 2-32-150",
+      "PGC 42051",
+      "UGC 7773",
+      " VCC 1664"
+    ],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/SDSS_NGC_4564.jpeg",
+    "type": "E6",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Virgo",
+    "rightAscension": "12h 36m 27.0s",
+    "declination": "11° 26′ 21″",
+    "coordinates": "12h 36m 27.0s, 11° 26′ 21″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2036%2027.000%2B11%2026%2021.00&fov=0.20&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.003809,
+    "apparentMagnitude": 12.05,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1784,
       "location": null,
-      "discoverer": null
+      "discoverer": "William Herschel"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "56 million",
+      "number": 56000000
     },
     "radius": null,
     "luminosity": null,
@@ -2210,13 +2217,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 5.407833834539153e23,
+      "km": 540783383453915350000,
+      "ly": 57160848.73374419,
+      "gpc": 0.01752559351474508,
+      "gly": 0.05719999999999736
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4564"
   },
   {
     "id": 46,
