@@ -1,8 +1,7 @@
 import uvicorn
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-import json
-from os.path import getsize
+from utils import data, getSize
 
 app = FastAPI()
 origins = ["*"]
@@ -15,12 +14,6 @@ app.add_middleware(
     allow_origins=origins,
     allow_credentials=True,
 )
-
-
-def data():
-    with open("data.json") as file:
-        data = json.load(file)
-    return data
 
 
 @app.get("/data")
@@ -37,13 +30,13 @@ def getByID(id):
 
 
 @app.get("/getDataSizeKiloBytes")
-def getDataSize():
-    return int(getsize("data.json") / 1024)
+def getDataSizeKiloBytes():
+    return int(getSize() / 1024)
 
 
 @app.get("/getDataSizeBytes")
-def getDataSize():
-    return int(getsize("data.json"))
+def getDataSizeBytes():
+    return getSize()
 
 
 if __name__ == "__main__":
