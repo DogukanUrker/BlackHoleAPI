@@ -2329,22 +2329,28 @@
   },
   {
     "id": 48,
-    "name": [null],
+    "name": [
+      "NGC 4697",
+      "Caldwell 52",
+      "UGCA 300",
+      "MCG -01-33-010",
+      "PGC 043276"
+    ],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/NGC_4697_HST_10003_R850_B475.png",
+    "type": "E6",
     "age": {
-      "text": null,
-      "number": null
+      "text": "6.8 billion",
+      "number": 6800000000
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Virgo",
+    "rightAscension": "12h 48m 35.9s",
+    "declination": "−05° 48′ 03″",
+    "coordinates": "12h 48m 35.9s, −05° 48′ 03″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2048%2035.900-05%2048%2003.00&fov=0.23&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 1241,
+    "apparentMagnitude": 10.97,
     "absoluteMagnitude": null,
     "discovery": {
       "year": null,
@@ -2352,10 +2358,10 @@
       "discoverer": null
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "130 million",
+      "number": 130000000
     },
-    "radius": null,
+    "radius": "35 light years",
     "luminosity": null,
     "temperature": {
       "kelvin": null,
@@ -2363,13 +2369,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 3.5926168830854514e23,
+      "km": 359261688308545160000,
+      "ly": 37973990.41752236,
+      "gpc": 0.011642876810494984,
+      "gly": 0.037999999999998244
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4697"
   },
   {
     "id": 49,
