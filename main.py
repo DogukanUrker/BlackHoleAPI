@@ -2,6 +2,7 @@ import uvicorn
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import json
+from os.path import getsize
 
 app = FastAPI()
 origins = ["*"]
@@ -33,6 +34,11 @@ def getByID(id):
         if str(i["id"]) == id:
             return i
     raise HTTPException(status_code=404, detail="Data not found")
+
+
+@app.get("/getDataSizeKiloBytes")
+def getDataSize():
+    return int(getsize("data.json") / 1024)
 
 
 if __name__ == "__main__":
