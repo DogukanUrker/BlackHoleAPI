@@ -2081,31 +2081,38 @@
   },
   {
     "id": 43,
-    "name": [null],
+    "name": [
+      "NGC 4473",
+      "CGCG 70-125",
+      "MCG 2-32-93",
+      "PGC 41228",
+      "UGC 7631",
+      "VCC 1231"
+    ],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/SDSS_NGC_4473.jpg",
+    "type": "E5",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Coma Berenices",
+    "rightAscension": "12h 29m 48.9s",
+    "declination": "13° 25′ 46″",
+    "coordinates": "12h 29m 48.9s, 13° 25′ 46″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2029%2048.900%2B13%2025%2046.00&fov=0.15&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.007485,
+    "apparentMagnitude": 11.16,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1784,
       "location": null,
-      "discoverer": null
+      "discoverer": "William Herschel"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "100 million",
+      "number": 100000000
     },
     "radius": null,
     "luminosity": null,
@@ -2115,13 +2122,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 498958925123911400,
+      "km": 498958925123911.44,
+      "ly": 52703901.43737183,
+      "gpc": 1.617015531510131e-8,
+      "gly": 5.277612328766863e-8
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4473#Supermassive_black_hole"
   },
   {
     "id": 44,
