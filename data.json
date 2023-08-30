@@ -1979,23 +1979,29 @@
   },
   {
     "id": 41,
-    "name": [null],
+    "name": [
+      "Eyes Galaxies",
+      "NGC 4435-8",
+      "Arp 120",
+      "VV 188 VCC 1030",
+      "VCC 1043"
+    ],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/NGC4438-NGC4435-eso1131a.jpg",
+    "type": "SB0/SA(s)O/a pec",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
-    "absoluteMagnitude": null,
+    "constellation": "Virgo",
+    "rightAscension": "12h 27m 45.6s",
+    "declination": "+13° 00' 31″",
+    "coordinates": "12h 27m 45.6s, +13° 00′ 31″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2027%2045.600%2B13%2000%2031.00&fov=0.44&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.002638,
+    "apparentMagnitude": 10,
+    "absoluteMagnitude": 12,
     "discovery": {
       "year": null,
       "location": null,
@@ -2013,13 +2019,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 4.916212576853775e23,
+      "km": 491621257685377550000,
+      "ly": 51964407.93976744,
+      "gpc": 0.015932357740677344,
+      "gly": 0.0519999999999976
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/Eyes_Galaxies"
   },
   {
     "id": 42,
