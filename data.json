@@ -2755,21 +2755,21 @@
   },
   {
     "id": 57,
-    "name": [null],
+    "name": ["RX J1131-1231", "QSO J1131-1231", "2MASX J11315154-1231587"],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Quasar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/RX_J1131.jpg",
+    "type": "Quasar",
     "age": {
-      "text": null,
-      "number": null
+      "text": "7.7 billion",
+      "number": 7700000000
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
+    "constellation": "Crater",
+    "rightAscension": "11h 31m 51.60s",
+    "declination": "−12° 31′ 57.00″",
+    "coordinates": "11h 31m 51.60s, −12° 31′ 57.00″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=11%2031%2051.474-12%2031%2058.05&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.658,
     "apparentMagnitude": null,
     "absoluteMagnitude": null,
     "discovery": {
@@ -2789,13 +2789,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 5.7198242480705215e25,
+      "km": 5.719824248070522e22,
+      "ly": 6045859000.68476,
+      "gpc": 1.8536685448288919,
+      "gly": 6.05
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/RX_J1131-1231"
   },
   {
     "id": 58,
