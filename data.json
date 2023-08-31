@@ -3071,47 +3071,47 @@
   },
   {
     "id": 64,
-    "name": [null],
+    "name": ["Messier 15", "M 15", "NGC 7078", "GCl 120"],
     "list": "Intermediate-mass Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Cluster",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/M15_Globular_Cluster_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg",
+    "type": "IV",
     "age": {
-      "text": null,
-      "number": null
+      "text": "12 billion",
+      "number": 12000000000
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Pegasus",
+    "rightAscension": "21h 29m 58.33s",
+    "declination": "+12° 10′ 01.2″",
+    "coordinates": "21h 29m 58.33s, +12° 10′ 01.2″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=21%2029%2058.273%2B12%2010%2003.69&fov=0.30&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
-    "absoluteMagnitude": null,
+    "apparentMagnitude": 6.2,
+    "absoluteMagnitude": -9.2,
     "discovery": {
-      "year": null,
+      "year": 1746,
       "location": null,
-      "discoverer": null
+      "discoverer": "Jean-Dominique Maraldi"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "560 thousand",
+      "number": 560000
     },
-    "radius": null,
-    "luminosity": null,
+    "radius": "~88 ly",
+    "luminosity": "360000 times that of the Sun",
     "temperature": {
       "kelvin": null,
       "celsius": null,
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 337653470566408800000,
+      "km": 337653470566408770,
+      "ly": 35690,
+      "gpc": 0.000010942602260067609,
+      "gly": 0.00003571444520547769
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/Messier_15"
   },
   {
     "id": 65,
