@@ -3167,52 +3167,60 @@
   },
   {
     "id": 66,
-    "name": [null],
+    "name": [
+      "Sculptor Galaxy",
+      "Silver Coin Galaxy",
+      "Silver Dollar Galaxy",
+      "NGC 253",
+      "UGCA 13",
+      "PGC 2789",
+      "Caldwell 65"
+    ],
     "list": "Intermediate-mass Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NGC_253_Galaxy.jpg/560px-NGC_253_Galaxy.jpg",
+    "type": "SAB(s)c",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
-    "absoluteMagnitude": null,
+    "constellation": "Sculptor",
+    "rightAscension": "00h 47m 33s",
+    "declination": "−25° 17′ 18″",
+    "coordinates": "00h 47m 33s, −25° 17′ 18″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=00%2047%2033.000-25%2017%2018.00&fov=0.60&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.000811,
+    "apparentMagnitude": 8.0,
+    "absoluteMagnitude": -15,
     "discovery": {
-      "year": null,
+      "year": 1783,
       "location": null,
-      "discoverer": null
+      "discoverer": "Caroline Herschel"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "5 million",
+      "number": 5000000
     },
     "radius": null,
-    "luminosity": null,
+    "luminosity": "25–26 mag/arcsec 2",
     "temperature": {
       "kelvin": null,
       "celsius": null,
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 1.0777850649256352e23,
+      "km": 107778506492563540000,
+      "ly": 11392197.125256708,
+      "gpc": 0.0034928630431484945,
+      "gly": 0.011399999999999473
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/Sculptor_Galaxy#Central_black_hole"
   },
   {
     "id": 67,
     "name": [null],
-    "list": "Stellar Black Holes",
+    "list": "Intermediate-mass Black Holes",
     "kind": null,
     "image": null,
     "type": null,
