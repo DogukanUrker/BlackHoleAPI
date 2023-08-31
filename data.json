@@ -3219,31 +3219,37 @@
   },
   {
     "id": 67,
-    "name": [null],
+    "name": [
+      "Triangulum Galaxy",
+      "NGC 0598",
+      "MCG+05-04-069",
+      "UGC 1117",
+      "PGC 5818"
+    ],
     "list": "Intermediate-mass Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg/1000px-VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg",
+    "type": "SA(s)cd",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Triangulum",
+    "rightAscension": "01h 33m 50.02s",
+    "declination": "+30° 39′ 36.7″",
+    "coordinates": "01h 33m 50.9s, 30° 39′ 36″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=01%2033%2050.020%2B30%2039%2036.70&fov=0.99&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": -0.000607,
+    "apparentMagnitude": 5.72,
     "absoluteMagnitude": null,
     "discovery": {
       "year": null,
       "location": null,
-      "discoverer": null
+      "discoverer": "William Parsons, 3rd Earl of Rosse"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "1.5 thousand",
+      "number": 1500
     },
     "radius": null,
     "luminosity": null,
@@ -3253,13 +3259,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 3.0253615857561693e22,
+      "km": 30253615857561694000,
+      "ly": 3197809.719370304,
+      "gpc": 0.0009804527840416829,
+      "gly": 0.0031999999999998523
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/Triangulum_Galaxy"
   },
   {
     "id": 68,
