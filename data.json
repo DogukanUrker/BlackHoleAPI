@@ -3269,20 +3269,20 @@
   },
   {
     "id": 68,
-    "name": [null],
+    "name": ["Great Annihilator"],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Microquasar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ss433_art_big.gif",
+    "type": "Microquasar",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Ophiuchus",
+    "rightAscension": "17h 43m 54.83s",
+    "declination": "−29° 44′ 42.6″",
+    "coordinates": "17h 43m 54.83s, −29° 44′ 42.6″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=17%2043%2054.830-29%2044%2042.60&fov=0.03&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
     "apparentMagnitude": null,
     "absoluteMagnitude": null,
@@ -3295,21 +3295,21 @@
       "text": null,
       "number": null
     },
-    "radius": null,
-    "luminosity": null,
+    "radius": "10337 km",
+    "luminosity": "VI",
     "temperature": {
       "kelvin": null,
       "celsius": null,
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 151371687561292800000,
+      "km": 151371687561292800,
+      "ly": 16000,
+      "gpc": 0.00000490562163522224,
+      "gly": 0.0000160109589041088
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/Great_Annihilator"
   },
   {
     "id": 69,
