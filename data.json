@@ -2983,20 +2983,20 @@
   },
   {
     "id": 62,
-    "name": [null],
+    "name": ["GCIRS 13E", "WR 101f"],
     "list": "Intermediate-mass Black Holes",
-    "kind": null,
+    "kind": "Radio Object",
     "image": null,
     "type": null,
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Sagittarius",
+    "rightAscension": "17h 45m 39.73s",
+    "declination": "−29° 00′ 29.7″",
+    "coordinates": "17h 45m 39.73s, −29° 00′ 29.7″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=17%2045%2039.730-30%2039%2029.70&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
     "apparentMagnitude": null,
     "absoluteMagnitude": null,
@@ -3017,13 +3017,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 245978992287100800000,
+      "km": 245978992287100830,
+      "ly": 26000,
+      "gpc": 0.00000797163515723614,
+      "gly": 0.0000260178082191768
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/GCIRS_13E"
   },
   {
     "id": 63,
