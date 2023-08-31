@@ -2520,47 +2520,53 @@
   },
   {
     "id": 52,
-    "name": [null],
+    "name": [
+      "NGC 6251",
+      "UGC 10501",
+      "LEDA 58472",
+      "6C 1636+8239",
+      "QSO B1637+826"
+    ],
     "list": "Supermassive Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/NGC_6251_R814B547.png",
+    "type": "E",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Ursa Minor",
+    "rightAscension": "16h 32m 31.9700s",
+    "declination": "+82° 32′ 16.400″",
+    "coordinates": "16 32 31.970, +82 32 16.40",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=16%2032%2031.970%2B82%2032%2016.40&fov=0.05&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.02471,
+    "apparentMagnitude": 14.3,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1977,
       "location": null,
       "discoverer": null
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "590 million",
+      "number": 590000000
     },
-    "radius": null,
-    "luminosity": null,
+    "radius": "5 arcsec",
+    "luminosity": 0.54,
     "temperature": {
       "kelvin": null,
       "celsius": null,
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 3.216648360677472e24,
+      "km": 3.216648360677472e21,
+      "ly": 340000000,
+      "gpc": 0.1042444597484726,
+      "gly": 0.340232876712312
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/NGC_6251"
   },
   {
     "id": 53,
