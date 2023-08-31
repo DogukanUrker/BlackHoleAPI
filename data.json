@@ -4356,7 +4356,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/EGSD2_J142033.66_525917.5"
   },
   {
     "id": 92,
@@ -4499,7 +4499,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/SDSS_J120136.02%2B300305.5"
   },
   {
     "id": 95,
@@ -4543,7 +4543,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/SDSS_J150243.09%2B111557.3"
   },
   {
     "id": 96,
@@ -4587,7 +4587,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/GOODS_J123652.77%2B621354.7"
   },
   {
     "id": 97,
@@ -4631,6 +4631,6 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/2MASX_J10270057%2B1749001"
   }
 ]
