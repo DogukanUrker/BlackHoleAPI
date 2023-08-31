@@ -2844,7 +2844,7 @@
   {
     "id": 59,
     "name": ["Phoenix A"],
-    "list": "Intermediate-mass Black Holes",
+    "list": "Supermassive Black Holes",
     "kind": "Supermassive Black Hole",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Phoenix_Cluster_center%2C_artist%27s_depiction.jpg",
     "type": "Supermassive Black Hole",
@@ -2887,50 +2887,6 @@
   },
   {
     "id": 60,
-    "name": [null],
-    "list": "Intermediate-mass Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
-    "age": {
-      "text": null,
-      "number": null
-    },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
-    "absoluteMagnitude": null,
-    "discovery": {
-      "year": null,
-      "location": null,
-      "discoverer": null
-    },
-    "solarmass": {
-      "text": null,
-      "number": null
-    },
-    "radius": null,
-    "luminosity": null,
-    "temperature": {
-      "kelvin": null,
-      "celsius": null,
-      "fahrenheit": null
-    },
-    "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
-    },
-    "wikipekia": null
-  },
-  {
-    "id": 61,
     "name": [
       "Messier 82",
       "NGC 3034",
@@ -2982,7 +2938,7 @@
     "wikipekia": "https://en.wikipedia.org/wiki/Messier_82"
   },
   {
-    "id": 62,
+    "id": 61,
     "name": ["GCIRS 13E", "WR 101f"],
     "list": "Intermediate-mass Black Holes",
     "kind": "Radio Object",
@@ -3024,6 +2980,50 @@
       "gly": 0.0000260178082191768
     },
     "wikipekia": "https://en.wikipedia.org/wiki/GCIRS_13E"
+  },
+  {
+    "id": 62,
+    "name": ["HLX-1"],
+    "list": "Intermediate-mass Black Holes",
+    "kind": "Intermediate-mass Black Hole",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/ESO_243-49_%28HST%29.jpg",
+    "type": "Intermediate-mass Black Hole",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Phoenix",
+    "rightAscension": "01h 10m 28.2s",
+    "declination": "−46° 04′ 22.2″",
+    "coordinates": "01h 10m 28.2s, −46° 04′ 22.2″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=01%2010%2028.200-46%2004%2022.20&fov=0.11&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": null,
+    "apparentMagnitude": null,
+    "absoluteMagnitude": null,
+    "discovery": {
+      "year": 2008,
+      "location": "Institut de Recherche en Astrophysique et Planétologie in Toulouse, France",
+      "discoverer": "Natalie Webb"
+    },
+    "solarmass": {
+      "text": "100 thousand",
+      "number": 100000
+    },
+    "radius": null,
+    "luminosity": "~1 x 10 42 erg s −1",
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "distance": {
+      "m": 2.743611837048432e24,
+      "km": 2.7436118370484324e21,
+      "ly": 290000000,
+      "gpc": 0.0889143921384031,
+      "0.290198630136972": null
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/HLX-1"
   },
   {
     "id": 63,
