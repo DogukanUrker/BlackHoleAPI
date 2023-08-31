@@ -3313,47 +3313,53 @@
   },
   {
     "id": 69,
-    "name": [null],
+    "name": [
+      "4U 1543-475",
+      "4U 1543-47",
+      "IL Lup",
+      "TIC 254732447",
+      "2MASS J15470829-4740103"
+    ],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "X-ray Transient",
+    "image": "http://maxi.riken.jp/star_data/J1547-476/J1547-476_g_img_1m.gif",
+    "type": "X-ray transient",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Lupus",
+    "rightAscension": "15h 47m 08.27687s",
+    "declination": "−47° 40′ 10.2846″",
+    "coordinates": "15h 47m 08.27687s, −47° 40′ 10.2846″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=15%2047%2008.277-47%2040%2010.28&fov=0.03&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
+    "apparentMagnitude": 11.96,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1984,
       "location": null,
-      "discoverer": null
+      "discoverer": "S. Kiamoto"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "9.4",
+      "number": 9.4
     },
     "radius": null,
     "luminosity": null,
     "temperature": {
-      "kelvin": null,
-      "celsius": null,
-      "fahrenheit": null
+      "kelvin": 9000,
+      "celsius": 8726.85,
+      "fahrenheit": 15740.33
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 160832418033873600000,
+      "km": 160832418033873600,
+      "ly": 17000,
+      "gpc": 0.00000521222298742363,
+      "gly": 0.0000170116438356156
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/4U_1543-475"
   },
   {
     "id": 70,
