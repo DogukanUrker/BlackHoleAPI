@@ -3363,47 +3363,55 @@
   },
   {
     "id": 70,
-    "name": [null],
+    "name": [
+      "A0620-00",
+      "1A 0620-00",
+      "INTREF 297",
+      "Nova Mon 1917",
+      "Nova Mon 1975",
+      "Mon X-1",
+      "V616 Mon"
+    ],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Binary Star",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/V616mon_sdss_ugiz_1_besk.jpg",
+    "type": "K",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Monoceros",
+    "rightAscension": "06h 22m 44.542s",
+    "declination": "−00° 20′ 44.29″",
+    "coordinates": "06h 22m 44.542s, −00° 20′ 44.29″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=06%2022%2044.542-00%2020%2044.29&fov=0.02&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
+    "apparentMagnitude": 11.2,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1975,
       "location": null,
-      "discoverer": null
+      "discoverer": "McClintock & Remillard"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "5.86",
+      "number": 5.86
     },
     "radius": null,
-    "luminosity": null,
+    "luminosity": "51 +/- 7 uJy",
     "temperature": {
       "kelvin": null,
       "celsius": null,
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 44465433221129760000,
+      "km": 44465433221129760,
+      "ly": 4700,
+      "gpc": 0.000001441026355346533,
+      "gly": 0.00000470321917808196
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/A0620-00"
   },
   {
     "id": 71,
