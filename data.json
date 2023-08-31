@@ -4360,47 +4360,47 @@
   },
   {
     "id": 92,
-    "name": [null],
+    "name": ["OJ 287", "EGO 0851+202", "3EG J0853+1941", "RGB J0854+201"],
     "list": "Binary Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "BL Lacertae Object",
+    "image": "https://i.ytimg.com/vi/v_Mg0nBqxCY/maxresdefault.jpg",
+    "type": "BL Lac",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
-    "redshift": null,
-    "apparentMagnitude": null,
+    "constellation": "Cancer",
+    "rightAscension": "08h 54m 48.9s",
+    "declination": "+20° 06′ 31″",
+    "coordinates": "08h 54m 48.9s, +20° 06′ 31″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=08%2054%2048.900%2B20%2006%2031.00&fov=0.02&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": 0.306,
+    "apparentMagnitude": 15.43,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1967,
       "location": null,
       "discoverer": null
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "18.35 billion",
+      "number": 18350000000
     },
-    "radius": null,
-    "luminosity": null,
+    "radius": "~1.97 AU",
+    "luminosity": "M_R = -22.5",
     "temperature": {
-      "kelvin": null,
-      "celsius": null,
-      "fahrenheit": null
+      "kelvin": 5361,
+      "celsius": 5087.85,
+      "fahrenheit": 9190.13
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 3.3089892344209634e25,
+      "km": 3.3089892344209634e22,
+      "ly": 3497604380.561432,
+      "gpc": 1.0723702325456401,
+      "gly": 3.5
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/OJ_287"
   },
   {
     "id": 93,
