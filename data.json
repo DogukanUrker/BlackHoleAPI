@@ -4220,33 +4220,38 @@
   },
   {
     "id": 87,
-    "name": ["XTE J1118+480"],
+    "name": [
+      "XTE J1118+480",
+      "KV Ursae Majoris",
+      "2MASS J11181079+4802126",
+      "AAVSO 1112+48"
+    ],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
+    "kind": "Black Hole",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Xtej1118_xray.jpg",
     "type": null,
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Ursa Major",
+    "rightAscension": "11h 18m 10.80s",
+    "declination": "48° 02′ 12.3″",
+    "coordinates": "11h 18m 10.80s, 48° 02′ 12.3″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=11%2018%2010.800%2B48%2002%2012.30&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
+    "apparentMagnitude": 12.25,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 2000,
       "location": null,
-      "discoverer": null
+      "discoverer": "All Sky Monitor (ASM)"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "7.24",
+      "number": 7.24
     },
-    "radius": null,
+    "radius": "5 arcsec",
     "luminosity": null,
     "temperature": {
       "kelvin": null,
@@ -4260,7 +4265,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/XTE_J1118%2B480"
   },
   {
     "id": 88,
