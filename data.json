@@ -4269,22 +4269,22 @@
   },
   {
     "id": 88,
-    "name": ["XTE J1550–564"],
+    "name": ["XTE J1550–564", "V381 Normae"],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
+    "kind": "X-ray Binary",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/V381NorLightCurve.png",
     "type": null,
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Norma",
+    "rightAscension": "15h 50m 58.78s",
+    "declination": "−56° 28′ 35.0″",
+    "coordinates": "15h 50m 58.78s, −56° 28′ 35.0″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=15%2050%2058.780-56%2028%2035.00&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
+    "apparentMagnitude": 16.6,
     "absoluteMagnitude": null,
     "discovery": {
       "year": null,
@@ -4292,8 +4292,8 @@
       "discoverer": null
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "10",
+      "number": 10
     },
     "radius": null,
     "luminosity": null,
@@ -4309,7 +4309,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/XTE_J1550%E2%80%93564"
   },
   {
     "id": 89,
