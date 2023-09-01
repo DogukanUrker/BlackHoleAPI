@@ -4315,29 +4315,29 @@
     "id": 89,
     "name": ["XTE J1650−500"],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Stellar Black Hole",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/XTE_J1650-500.jpg",
+    "type": "K2V",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Ara",
+    "rightAscension": "16h 50m 00.98s",
+    "declination": "−49° 57′ 43.6″",
+    "coordinates": "16h 50m 00.98s, −49° 57′ 43.6″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=16%2050%2000.980-49%2057%2043.60&fov=0.02&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
     "apparentMagnitude": null,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 2001,
       "location": null,
-      "discoverer": null
+      "discoverer": "All-Sky Monitor"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "9.7",
+      "number": 9.7
     },
     "radius": null,
     "luminosity": null,
@@ -4347,13 +4347,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 101827360180865730000,
+      "km": 101827360180865740,
+      "ly": 10763.16046377,
+      "gpc": 0.000003299999552152422,
+      "gly": 0.00001077053249148438
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/XTE_J1650%E2%88%92500"
   },
   {
     "id": 90,
