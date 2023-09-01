@@ -3874,7 +3874,7 @@
     "rightAscension": "06h 11m 49.0763s",
     "declination": "+22° 49′ 32.686″",
     "coordinates": "06h 11m 49.076s, +22° 49′ 32.686″",
-    "map": null,
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=06%2011%2049.076%2B22%2049%2032.69&fov=0.08&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
     "apparentMagnitude": 11.51,
     "absoluteMagnitude": null,
@@ -3905,31 +3905,37 @@
   },
   {
     "id": 81,
-    "name": ["M33 X-7"],
+    "name": [
+      "M33 X-7",
+      "2E 408",
+      "2E 0130.7+3016",
+      "RX J0133.5+3032",
+      "CXOU J013334.1+303210"
+    ],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Black Hole",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/M33_X-7.jpg",
+    "type": "O7-8III",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Triangulum",
+    "rightAscension": "01h 33m 34.13s",
+    "declination": "+30° 32′ 11.3″",
+    "coordinates": "01h 33m 34.13s, +30° 32′ 11.3″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=01%2033%2034.130%2B30%2032%2011.30&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
+    "apparentMagnitude": 18.7,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 2007,
       "location": null,
-      "discoverer": null
+      "discoverer": "Wolfgang Pietsch"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "15.65",
+      "number": 15.65
     },
     "radius": null,
     "luminosity": null,
@@ -3939,13 +3945,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 2.554397227596816e22,
+      "km": 25543972275968164000,
+      "ly": 2700000,
+      "gpc": 0.000827823650943753,
+      "gly": 0.00270184931506836
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/M33_X-7"
   },
   {
     "id": 82,
