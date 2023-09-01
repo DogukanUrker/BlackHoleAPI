@@ -3624,29 +3624,29 @@
     "id": 75,
     "name": ["GRS 1124-683"],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Black Hole",
+    "image": "https://dic.academic.ru/pictures/wiki/files/51/300px-Black_hole.jpg",
+    "type": "Black Hole",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Musca",
+    "rightAscension": "11h 26m 26.60s",
+    "declination": "−68° 40′ 32.3″",
+    "coordinates": "11h 26m 26.60s, −68° 40′ 32.3″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=11%2026%2026.600-68%2040%2032.30&fov=0.02&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
+    "apparentMagnitude": 13.3,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1991,
       "location": null,
       "discoverer": null
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "7",
+      "number": 7
     },
     "radius": null,
     "luminosity": null,
@@ -3662,7 +3662,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/GRS_1124-683"
   },
   {
     "id": 76,
