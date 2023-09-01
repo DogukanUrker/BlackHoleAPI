@@ -3717,22 +3717,22 @@
   },
   {
     "id": 77,
-    "name": ["GS 2000+25"],
+    "name": ["GS 2000+25", "Nova Vul 1988", "INTREF 1007", "QZ Vul"],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Black Hole",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/QZVulLightCurve.png",
+    "type": "K3-6 V",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Vulpecula",
+    "rightAscension": "20h 02m 49.58s",
+    "declination": "+25° 14′ 11.3″",
+    "coordinates": "20h 02m 49.58s, +25° 14′ 11.3″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=20%2002%2049.580%2B25%2014%2011.30&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
+    "apparentMagnitude": 18.2,
     "absoluteMagnitude": null,
     "discovery": {
       "year": null,
@@ -3740,8 +3740,8 @@
       "discoverer": null
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "5",
+      "number": 5
     },
     "radius": null,
     "luminosity": null,
@@ -3751,13 +3751,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 83254428158711040000,
+      "km": 83254428158711040,
+      "ly": 8800,
+      "gpc": 0.000002698091899372232,
+      "gly": 0.00000880602739725984
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/GS_2000%2B25"
   },
   {
     "id": 78,
