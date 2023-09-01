@@ -4043,31 +4043,58 @@
   },
   {
     "id": 84,
-    "name": ["SS 433"],
+    "name": [
+      "SS 433",
+      "V1343 Aql",
+      "GAL 039.7-02.0",
+      "2MASS J19114957+0458578",
+      "USNO 659",
+      "1A 1909+04",
+      "87GB 190920.8+045332",
+      "NEK 40.1-02.1",
+      "3A 1909+048",
+      "GPS 1909+049",
+      "RGB J1911+049",
+      "BWE 1909+0453",
+      "GRS 039.60 -01.80",
+      "RX J1911.7+0459",
+      "4C 04.66",
+      "1H 1908+047",
+      "1RXS J191149.7+045857",
+      "2E 1909.3+0453",
+      "HBHA 204-02",
+      "AAVSO 1906+04",
+      "2E 4204",
+      "INTEGRAL1 110",
+      "TXS 1909+048",
+      "1ES 1909+04.8",
+      "INTREF 969",
+      "4U 1908+05"
+    ],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Star System",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/W50_medium.jpg",
+    "type": "A7Ib",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Aquila",
+    "rightAscension": "19h 11m 49.56s",
+    "declination": "+04° 58′ 57.8″",
+    "coordinates": "19h 11m 49.56s, +04° 58′ 57.6″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=19%2011%2049.560%2B04%2058%2057.60&fov=0.02&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
+    "apparentMagnitude": 15.15,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1977,
       "location": null,
-      "discoverer": null
+      "discoverer": "K16"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "8",
+      "number": 8
     },
     "radius": null,
     "luminosity": null,
@@ -4077,13 +4104,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 170293148506454400000,
+      "km": 170293148506454400,
+      "ly": 18000,
+      "gpc": 0.00000551882433962502,
+      "gly": 0.0000180123287671224
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/SS_433"
   },
   {
     "id": 85,
