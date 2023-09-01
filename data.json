@@ -3761,34 +3761,41 @@
   },
   {
     "id": 78,
-    "name": ["GX 339-4"],
+    "name": [
+      "GX 339-4",
+      "V821 Ara",
+      "4U 1658-48",
+      "3A 1659-487",
+      "1RXS J170248.5-484719",
+      "2MASS 17024936-4847228"
+    ],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Black Hole",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flaring_Black_Hole.jpg",
+    "type": "LMXB",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Ara",
+    "rightAscension": "17 02 49.5",
+    "declination": "-48 47 23",
+    "coordinates": "17 02 49.5, -48 47 23",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=17%2002%2049.500-48%2047%2023.00&fov=0.02&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
+    "apparentMagnitude": 15.5,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1973,
       "location": null,
-      "discoverer": null
+      "discoverer": "Markert et al"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "5.8",
+      "number": 5.8
     },
-    "radius": null,
-    "luminosity": null,
+    "radius": "255.706 degs",
+    "luminosity": "20 keV",
     "temperature": {
       "kelvin": null,
       "celsius": null,
@@ -3801,7 +3808,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/GX_339-4"
   },
   {
     "id": 79,
