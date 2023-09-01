@@ -3578,47 +3578,47 @@
   },
   {
     "id": 74,
-    "name": ["GRO J1655-40"],
+    "name": ["GRO J1655-40", "V1033 Sco", "GRO J1655−40"],
     "list": "Stellar Black Holes",
-    "kind": null,
+    "kind": "Binary Star",
     "image": null,
-    "type": null,
+    "type": "Binary Star",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Scorpius",
+    "rightAscension": "16h 54m 00.14s",
+    "declination": "−39° 50′ 44.9″",
+    "coordinates": "16h 54m 00.14s, −39° 50′ 44.9″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=16%2054%2000.140-39%2050%2044.90&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
+    "apparentMagnitude": 17.0,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1994,
       "location": null,
-      "discoverer": null
+      "discoverer": "Zhang et al"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "7",
+      "number": 7
     },
-    "radius": null,
+    "radius": "5 arcsec",
     "luminosity": null,
     "temperature": {
-      "kelvin": null,
-      "celsius": null,
-      "fahrenheit": null
+      "kelvin": 7000,
+      "celsius": 6726.85,
+      "fahrenheit": 12140.33
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 78051026398791600000,
+      "km": 78051026398791600,
+      "ly": 8250,
+      "gpc": 0.0000025294611556614674,
+      "gly": 0.0000082556506849311
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/GRO_J1655%E2%88%9240"
   },
   {
     "id": 75,
