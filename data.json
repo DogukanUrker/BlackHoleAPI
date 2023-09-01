@@ -3666,47 +3666,54 @@
   },
   {
     "id": 76,
-    "name": ["GRS 1915+105"],
+    "name": [
+      "GRS 1915+105",
+      "V1487 Aquilae",
+      "Granat 1915+105",
+      "Nova Aquilae 1992",
+      "Granat 1915+10",
+      "INTEGRAL1 112"
+    ],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Microquasar",
+    "image": "https://chandra.harvard.edu/photo/2009/g1915/g1915_xray.jpg",
+    "type": "Microquasar",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Aquila",
+    "rightAscension": "19h 15m 11.6s",
+    "declination": "+10° 56′ 44″",
+    "coordinates": "19h 15m 11.6s, +10° 56′ 44″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=19%2015%2011.600%2B10%2056%2044.00&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
     "apparentMagnitude": null,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 1992,
       "location": null,
-      "discoverer": null
+      "discoverer": "WATCH all-sky monitor aboard Granat"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "12.4",
+      "number": 12.4
     },
     "radius": null,
-    "luminosity": null,
+    "luminosity": "10-100%",
     "temperature": {
-      "kelvin": null,
-      "celsius": null,
-      "fahrenheit": null
+      "kelvin": 650,
+      "celsius": 376.85,
+      "fahrenheit": 710.33
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 264900453232262400000,
+      "km": 264900453232262430,
+      "ly": 28000,
+      "gpc": 0.00000858483786163892,
+      "gly": 0.0000280191780821904
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/GRS_1915%2B105"
   },
   {
     "id": 77,
