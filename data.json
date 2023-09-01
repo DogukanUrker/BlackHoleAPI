@@ -3812,33 +3812,38 @@
   },
   {
     "id": 79,
-    "name": ["IGR J17091-3624"],
+    "name": [
+      "IGR J17091-3624",
+      "SWIFT J1709.8-3627B",
+      "INTEGRAL1 44",
+      "CXOU J170907.6-362425"
+    ],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Stellar Black Hole",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/IGR_J17091-3624.jpg",
+    "type": "Stellar Black Hole",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Scorpius",
+    "rightAscension": "17h 09m 08.0s",
+    "declination": "−36° 24′ 24″",
+    "coordinates": "17h 09m 07.92s, −36° 24′ 25.20″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=17%2009%2008.000-36%2024%2024.00&fov=0.03&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
     "apparentMagnitude": null,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 2003,
       "location": null,
-      "discoverer": null
+      "discoverer": "INTEGRAL satellite"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "6.5",
+      "number": 6.5
     },
-    "radius": null,
+    "radius": "5 arcsec",
     "luminosity": null,
     "temperature": {
       "kelvin": null,
@@ -3846,13 +3851,13 @@
       "fahrenheit": null
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 264900453232262400000,
+      "km": 264900453232262430,
+      "ly": 28000,
+      "gpc": 0.00000858483786163892,
+      "gly": 0.0000280191780821904
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/IGR_J17091-3624"
   },
   {
     "id": 80,
