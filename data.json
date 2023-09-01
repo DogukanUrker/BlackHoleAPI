@@ -4114,47 +4114,54 @@
   },
   {
     "id": 85,
-    "name": ["V404 Cyg"],
+    "name": [
+      "V404 Cygni",
+      "V404 Cyg",
+      "Nova Cygni 1938",
+      "Nova Cygni 1989",
+      "GS 2023+338",
+      "AAVSO 2020+33"
+    ],
     "list": "Stellar Black Holes",
-    "kind": null,
-    "image": null,
-    "type": null,
+    "kind": "Microquasar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/V404Cyg_XRT_halo_fullsize.jpg",
+    "type": "K3 III",
     "age": {
       "text": null,
       "number": null
     },
-    "constellation": null,
-    "rightAscension": null,
-    "declination": null,
-    "coordinates": null,
-    "map": null,
+    "constellation": "Cygnus",
+    "rightAscension": "20h 24m 03.82s",
+    "declination": "+33° 52′ 02.0″",
+    "coordinates": "20h 24m 03.82s, +33° 52′ 02.0″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=20%2024%2003.820%2B33%2052%2002.00&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": null,
-    "apparentMagnitude": null,
+    "apparentMagnitude": 15,
     "absoluteMagnitude": null,
     "discovery": {
-      "year": null,
+      "year": 2015,
       "location": null,
-      "discoverer": null
+      "discoverer": "Sebastian Heinz"
     },
     "solarmass": {
-      "text": null,
-      "number": null
+      "text": "0.7",
+      "number": 0.7
     },
-    "radius": null,
-    "luminosity": null,
+    "radius": 6.0,
+    "luminosity": 10.2,
     "temperature": {
-      "kelvin": null,
-      "celsius": null,
-      "fahrenheit": null
+      "kelvin": 4800,
+      "celsius": 4526.85,
+      "fahrenheit": 8180.33
     },
     "distance": {
-      "m": null,
-      "km": null,
-      "ly": null,
-      "gpc": null,
-      "gly": null
+      "m": 73747694191596700000,
+      "km": 73747694191596700,
+      "ly": 7795.1374267910005,
+      "gpc": 0.0000023899996756497846,
+      "gly": 0.000007800476562014445
     },
-    "wikipekia": null
+    "wikipekia": "https://en.wikipedia.org/wiki/V404_Cygni"
   },
   {
     "id": 86,
