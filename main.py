@@ -60,5 +60,13 @@ def getValueByID(value, id: int):
     return data()[id][value]
 
 
+@app.get("/getRandomDatas/{dataCount}")
+def getRandomDatas(dataCount: int):
+    data = []
+    for _ in range(dataCount):
+        data.append(getRandomData())
+    return data
+
+
 if __name__ == "__main__":
     uvicorn.run("main:app", host="127.0.0.1", port=1818, workers=1, reload=True)
