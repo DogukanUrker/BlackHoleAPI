@@ -55,5 +55,10 @@ def getRandomImage():
     return getRandomData()["image"]
 
 
+@app.get("/getValueByID/{value}/{id}")
+def getValueByID(value, id: int):
+    return data()[id][value]
+
+
 if __name__ == "__main__":
     uvicorn.run("main:app", host="127.0.0.1", port=1818, workers=1, reload=True)
