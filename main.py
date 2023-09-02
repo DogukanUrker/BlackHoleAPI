@@ -1,8 +1,8 @@
 import uvicorn
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from utils import data, getSize
-from random import randint
+from utils import data, getSize, getRandomData
+from random import choice
 
 app = FastAPI()
 origins = ["*"]
@@ -42,10 +42,17 @@ def getDataSizeBytes():
 
 @app.get("/random")
 def getRandom():
-    randomID = randint(1, 97)
-    for i in data():
-        if int(i["id"]) == randomID:
-            return i
+    return getRandomData()
+
+
+@app.get("/randomName")
+def getRandomName():
+    return choice(getRandomData()["name"])
+
+
+@app.get("/randomImage")
+def getRandomImage():
+    return getRandomData()["image"]
 
 
 if __name__ == "__main__":

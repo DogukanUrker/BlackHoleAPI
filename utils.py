@@ -1,5 +1,6 @@
 import json
 from os.path import getsize
+from random import randint
 
 
 def data():
@@ -10,3 +11,7 @@ def data():
 
 def getSize():
     return getsize("data.json")
+
+
+def getRandomData():
+    return data()[randint(1, 97)]
