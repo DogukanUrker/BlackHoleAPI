@@ -4406,6 +4406,50 @@
   },
   {
     "id": 91,
+    "name": ["Gaia BH1", "Gaia DR3", "4373465352415301632"],
+    "list": "Stellar Black Holes",
+    "kind": "Stellar Black Hole",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Artist%27s_impression_of_the_closest_black_hole_to_Earth_and_its_Sun-like_companion_star.jpg",
+    "type": "G",
+    "age": {
+      "text": null,
+      "number": null
+    },
+    "constellation": "Ophiuchus",
+    "rightAscension": "17h 28m 41.09661s",
+    "declination": "−00° 34′ 51.5234″",
+    "coordinates": "17h 28m 41.09661s, −00° 34′ 51.5234″",
+    "map": "https://aladin.cds.unistra.fr/AladinLite/?target=17%2028%2041.097-00%2034%2051.52&fov=0.09&survey=CDS%2FP%2FDSS2%2Fcolor",
+    "redshift": null,
+    "apparentMagnitude": 13.77,
+    "absoluteMagnitude": null,
+    "discovery": {
+      "year": 2022,
+      "location": null,
+      "discoverer": null
+    },
+    "solarmass": {
+      "text": "9.62",
+      "number": 9.62
+    },
+    "radius": "0.99±0.05 R☉",
+    "luminosity": "1.06±0.04 L☉",
+    "temperature": {
+      "kelvin": null,
+      "celsius": null,
+      "fahrenheit": null
+    },
+    "distance": {
+      "m": 14758739537226047000,
+      "km": 14758739537226048,
+      "ly": 1560,
+      "gpc": 4.782981094341684e-7,
+      "gly": 0.000001561068493150608
+    },
+    "wikipekia": "https://en.wikipedia.org/wiki/EGSD2_J142033.66_525917.5"
+  },
+  {
+    "id": 91,
     "name": ["EGSD2 J142033.66 525917.5"],
     "list": "Binary Black Holes",
     "kind": null,
