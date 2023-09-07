@@ -47,7 +47,7 @@
       "gpc": 1.53300676100695,
       "gly": 5.0034246575340005
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/1ES_2344%2B514"
+    "wikipedia": "https://en.wikipedia.org/wiki/1ES_2344%2B514"
   },
   {
     "id": 2,
@@ -101,7 +101,7 @@
       "gpc": 5.5801446100652985,
       "gly": 18.21246575342376
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/TON_618"
+    "wikipedia": "https://en.wikipedia.org/wiki/TON_618"
   },
   {
     "id": 3,
@@ -152,7 +152,7 @@
       "gpc": 0.2238189871070147,
       "gly": 0.730499999999964
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/3C_371#:~:text=3C%20371%20is%20a%20BL%20Lac%20object%20located,among%20the%20nearest%20and%20brightest%20BL%20Lacs.%20"
+    "wikipedia": "https://en.wikipedia.org/wiki/3C_371#:~:text=3C%20371%20is%20a%20BL%20Lac%20object%20located,among%20the%20nearest%20and%20brightest%20BL%20Lacs.%20"
   },
   {
     "id": 4,
@@ -203,7 +203,7 @@
       "gpc": 0.22979362125976938,
       "gly": 0.7499999999999653
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/4C_%2B37.11#:~:text=4C%20%2B37.11%20or%20Galaxy%200402%2B379%20is%20a%20radio,parsecs%2C%20with%20an%20orbital%20period%20of%2030%2C000%20years."
+    "wikipedia": "https://en.wikipedia.org/wiki/4C_%2B37.11#:~:text=4C%20%2B37.11%20or%20Galaxy%200402%2B379%20is%20a%20radio,parsecs%2C%20with%20an%20orbital%20period%20of%2030%2C000%20years."
   },
   {
     "id": 5,
@@ -247,7 +247,7 @@
       "gpc": 0.21499997082404462,
       "gly": 0.7017165108153353
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/AP_Librae"
+    "wikipedia": "https://en.wikipedia.org/wiki/AP_Librae"
   },
   {
     "id": 6,
@@ -291,7 +291,7 @@
       "gpc": 3.7,
       "gly": 12.0760532202199
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/S5_0014%2B81"
+    "wikipedia": "https://en.wikipedia.org/wiki/S5_0014%2B81"
   },
   {
     "id": 7,
@@ -340,7 +340,7 @@
       "gpc": 7.2,
       "gly": 23.6
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/APM_08279%2B5255"
+    "wikipedia": "https://en.wikipedia.org/wiki/APM_08279%2B5255"
   },
   {
     "id": 8,
@@ -384,7 +384,7 @@
       "gpc": 0.0766503380503475,
       "gly": 0.2501712328767
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Arp_220"
+    "wikipedia": "https://en.wikipedia.org/wiki/Arp_220"
   },
   {
     "id": 9,
@@ -435,7 +435,7 @@
       "gpc": 0.00337261487421529,
       "gly": 0.0110075342465748
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Centaurus_A"
+    "wikipedia": "https://en.wikipedia.org/wiki/Centaurus_A"
   },
   {
     "id": 10,
@@ -527,7 +527,7 @@
       "gpc": 0.018996272690807604,
       "gly": 0.061999999999997134
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_1316"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_1316"
   },
   {
     "id": 11,
@@ -584,7 +584,7 @@
       "gpc": 0.91980405660417,
       "gly": 3.0020547945204
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/HE0450-2958"
+    "wikipedia": "https://en.wikipedia.org/wiki/HE0450-2958"
   },
   {
     "id": 12,
@@ -636,7 +636,7 @@
       "gpc": 0.026043277076107197,
       "gly": 0.08499999999999606
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/IC_1459"
+    "wikipedia": "https://en.wikipedia.org/wiki/IC_1459"
   },
   {
     "id": 13,
@@ -699,7 +699,7 @@
       "gpc": 0.0007649998962027107,
       "gly": 0.00249680525946111
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
+    "wikipedia": "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
   },
   {
     "id": 14,
@@ -751,7 +751,7 @@
       "gpc": 0.0007679998955715429,
       "gly": 0.002506596651903986
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Messier_32"
+    "wikipedia": "https://en.wikipedia.org/wiki/Messier_32"
   },
   {
     "id": 15,
@@ -795,7 +795,7 @@
       "gpc": 0.017372397767238566,
       "gly": 0.05669999999999738
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Messier_60"
+    "wikipedia": "https://en.wikipedia.org/wiki/Messier_60"
   },
   {
     "id": 16,
@@ -854,7 +854,7 @@
       "gpc": 0.00705183110063197,
       "gly": 0.0230157534246564
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Whirlpool_Galaxy"
+    "wikipedia": "https://en.wikipedia.org/wiki/Whirlpool_Galaxy"
   },
   {
     "id": 17,
@@ -908,7 +908,7 @@
       "gpc": 0.013797060849062551,
       "gly": 0.045030821917806
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Messier_77"
+    "wikipedia": "https://en.wikipedia.org/wiki/Messier_77"
   },
   {
     "id": 18,
@@ -960,7 +960,7 @@
       "gpc": 0.003617895955976402,
       "gly": 0.01180808219178024
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Messier_81"
+    "wikipedia": "https://en.wikipedia.org/wiki/Messier_81"
   },
   {
     "id": 19,
@@ -1011,7 +1011,7 @@
       "gpc": 0.01696599769786234,
       "gly": 0.055373592198243844
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Messier_84"
+    "wikipedia": "https://en.wikipedia.org/wiki/Messier_84"
   },
   {
     "id": 20,
@@ -1067,7 +1067,7 @@
       "gpc": 0.016756997726033507,
       "gly": 0.05469145847315484
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Messier_87#Supermassive_black_hole_M87*"
+    "wikipedia": "https://en.wikipedia.org/wiki/Messier_87#Supermassive_black_hole_M87*"
   },
   {
     "id": 21,
@@ -1118,7 +1118,7 @@
       "gpc": 0.009549998762022564,
       "gly": 0.03116926846032758
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Sombrero_Galaxy#Central_supermassive_black_hole"
+    "wikipedia": "https://en.wikipedia.org/wiki/Sombrero_Galaxy#Central_supermassive_black_hole"
   },
   {
     "id": 22,
@@ -1162,7 +1162,7 @@
       "gpc": 0.011065998499697017,
       "gly": 0.03611718562627219
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Messier_105"
+    "wikipedia": "https://en.wikipedia.org/wiki/Messier_105"
   },
   {
     "id": 23,
@@ -1206,7 +1206,7 @@
       "gpc": 0.007261478431808712,
       "gly": 0.023699999999998903
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Messier_106"
+    "wikipedia": "https://en.wikipedia.org/wiki/Messier_106"
   },
   {
     "id": 24,
@@ -1260,7 +1260,7 @@
       "gpc": 0.12172073682395183,
       "gly": 0.3972719178081996
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Markarian_421"
+    "wikipedia": "https://en.wikipedia.org/wiki/Markarian_421"
   },
   {
     "id": 25,
@@ -1304,7 +1304,7 @@
       "gpc": 0.1397145217259398,
       "gly": 0.4559999999999789
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Markarian_501"
+    "wikipedia": "https://en.wikipedia.org/wiki/Markarian_501"
   },
   {
     "id": 26,
@@ -1348,7 +1348,7 @@
       "gpc": 0.023224475321987362,
       "gly": 0.0757999999999965
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_821"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_821"
   },
   {
     "id": 27,
@@ -1392,7 +1392,7 @@
       "gpc": 0.011642876810494984,
       "gly": 0.037999999999998244
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_1023"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_1023"
   },
   {
     "id": 28,
@@ -1441,7 +1441,7 @@
       "gpc": 0.013797060849062551,
       "gly": 0.045030821917806
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_1097"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_1097"
   },
   {
     "id": 29,
@@ -1485,7 +1485,7 @@
       "gpc": 0.07629148225824343,
       "gly": 0.24899999999998848
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_1271"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_1271"
   },
   {
     "id": 30,
@@ -1529,7 +1529,7 @@
       "gpc": 0.0735339588031262,
       "gly": 0.2399999999999889
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_1277"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_1277"
   },
   {
     "id": 31,
@@ -1573,7 +1573,7 @@
       "gpc": 0.021478043800413113,
       "gly": 0.07009999999999676
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_1332"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_1332"
   },
   {
     "id": 32,
@@ -1617,7 +1617,7 @@
       "gpc": 0.021141013155898787,
       "gly": 0.06899999999999681
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_1566"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_1566"
   },
   {
     "id": 33,
@@ -1661,7 +1661,7 @@
       "gpc": 0.007405482434464835,
       "gly": 0.024169999999998883
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_2787"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_2787"
   },
   {
     "id": 34,
@@ -1705,7 +1705,7 @@
       "gpc": 0.015319574750651294,
       "gly": 0.04999999999999769
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_3079"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_3079"
   },
   {
     "id": 35,
@@ -1755,7 +1755,7 @@
       "gpc": 0.009681971242411616,
       "gly": 0.03159999999999854
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_3115#Black_hole"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_3115#Black_hole"
   },
   {
     "id": 36,
@@ -1799,7 +1799,7 @@
       "gpc": 0.011199998480253215,
       "gly": 0.03655453451727354
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_3377"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_3377"
   },
   {
     "id": 37,
@@ -1843,7 +1843,7 @@
       "gpc": 0.010754341474957208,
       "gly": 0.035099999999998376
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_3384"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_3384"
   },
   {
     "id": 38,
@@ -1887,7 +1887,7 @@
       "gpc": 0.013787617275586164,
       "gly": 0.044999999999997924
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_3998"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_3998"
   },
   {
     "id": 39,
@@ -1931,7 +1931,7 @@
       "gpc": 0.01579999785606055,
       "gly": 0.051568004051118006
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4151"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_4151"
   },
   {
     "id": 40,
@@ -1975,7 +1975,7 @@
       "gpc": 0.029382944371749185,
       "gly": 0.09589999999999557
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4261"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_4261"
   },
   {
     "id": 41,
@@ -2025,7 +2025,7 @@
       "gpc": 0.015932357740677344,
       "gly": 0.0519999999999976
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Eyes_Galaxies"
+    "wikipedia": "https://en.wikipedia.org/wiki/Eyes_Galaxies"
   },
   {
     "id": 42,
@@ -2077,7 +2077,7 @@
       "gpc": 0.016096570990572975,
       "gly": 0.052535958904107
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4459#Super_massive_black_hole"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_4459#Super_massive_black_hole"
   },
   {
     "id": 43,
@@ -2128,7 +2128,7 @@
       "gpc": 1.617015531510131e-8,
       "gly": 5.277612328766863e-8
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4473#Supermassive_black_hole"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_4473#Supermassive_black_hole"
   },
   {
     "id": 44,
@@ -2172,7 +2172,7 @@
       "gpc": 0.016756997726033507,
       "gly": 0.05469145847315484
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Messier_87#Supermassive_black_hole_M87*"
+    "wikipedia": "https://en.wikipedia.org/wiki/Messier_87#Supermassive_black_hole_M87*"
   },
   {
     "id": 45,
@@ -2223,7 +2223,7 @@
       "gpc": 0.01752559351474508,
       "gly": 0.05719999999999736
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4564"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_4564"
   },
   {
     "id": 46,
@@ -2274,7 +2274,7 @@
       "gpc": 0.018996272690807604,
       "gly": 0.061999999999997134
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Messier_58"
+    "wikipedia": "https://en.wikipedia.org/wiki/Messier_58"
   },
   {
     "id": 47,
@@ -2325,7 +2325,7 @@
       "gpc": 0.01685153222571642,
       "gly": 0.054999999999997454
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4596#Supermassive_black_hole"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_4596#Supermassive_black_hole"
   },
   {
     "id": 48,
@@ -2375,7 +2375,7 @@
       "gpc": 0.011642876810494984,
       "gly": 0.037999999999998244
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4697"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_4697"
   },
   {
     "id": 49,
@@ -2428,7 +2428,7 @@
       "gpc": 0.09436858046401196,
       "gly": 0.30799999999998573
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4889#Supermassive_black_hole"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_4889#Supermassive_black_hole"
   },
   {
     "id": 50,
@@ -2472,7 +2472,7 @@
       "gpc": 0.003615419641153705,
       "gly": 0.011799999999999455
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_4945"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_4945"
   },
   {
     "id": 51,
@@ -2516,7 +2516,7 @@
       "gpc": 0.016467997765721387,
       "gly": 0.05374822093224393
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_5033"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_5033"
   },
   {
     "id": 52,
@@ -2566,7 +2566,7 @@
       "gpc": 0.1042444597484726,
       "gly": 0.340232876712312
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_6251"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_6251"
   },
   {
     "id": 53,
@@ -2610,7 +2610,7 @@
       "gpc": 0.05154999300432479,
       "gly": 0.16824877270869032
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_7052"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_7052"
   },
   {
     "id": 54,
@@ -2654,7 +2654,7 @@
       "gpc": 0.016728975627711213,
       "gly": 0.05459999999999748
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/NGC_7314"
+    "wikipedia": "https://en.wikipedia.org/wiki/NGC_7314"
   },
   {
     "id": 55,
@@ -2698,7 +2698,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/PKS_0521-365"
+    "wikipedia": "https://en.wikipedia.org/wiki/PKS_0521-365"
   },
   {
     "id": 56,
@@ -2751,7 +2751,7 @@
       "gpc": 3.771196632077097,
       "gly": 12.30842465753364
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Q0906%2B6930"
+    "wikipedia": "https://en.wikipedia.org/wiki/Q0906%2B6930"
   },
   {
     "id": 57,
@@ -2795,7 +2795,7 @@
       "gpc": 1.8536685448288919,
       "gly": 6.05
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/RX_J1131-1231"
+    "wikipedia": "https://en.wikipedia.org/wiki/RX_J1131-1231"
   },
   {
     "id": 58,
@@ -2839,7 +2839,7 @@
       "gpc": 0.000008177977867267676,
       "gly": 0.000026691269178080876
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Sagittarius_A*"
+    "wikipedia": "https://en.wikipedia.org/wiki/Sagittarius_A*"
   },
   {
     "id": 59,
@@ -2883,7 +2883,7 @@
       "gpc": 1.747627707547923,
       "gly": 5.70390410958876
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Phoenix_Cluster#Supermassive_black_hole"
+    "wikipedia": "https://en.wikipedia.org/wiki/Phoenix_Cluster#Supermassive_black_hole"
   },
   {
     "id": 60,
@@ -2935,7 +2935,7 @@
       "gpc": 0.003646058790655008,
       "gly": 0.01189999999999945
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Messier_82"
+    "wikipedia": "https://en.wikipedia.org/wiki/Messier_82"
   },
   {
     "id": 61,
@@ -2979,7 +2979,7 @@
       "gpc": 0.00000797163515723614,
       "gly": 0.0000260178082191768
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/GCIRS_13E"
+    "wikipedia": "https://en.wikipedia.org/wiki/GCIRS_13E"
   },
   {
     "id": 62,
@@ -3023,7 +3023,7 @@
       "gpc": 0.0889143921384031,
       "0.290198630136972": null
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/HLX-1"
+    "wikipedia": "https://en.wikipedia.org/wiki/HLX-1"
   },
   {
     "id": 63,
@@ -3067,7 +3067,7 @@
       "gpc": 1.83960811320834e-7,
       "gly": 6.0041095890408e-7
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/M82_X-1"
+    "wikipedia": "https://en.wikipedia.org/wiki/M82_X-1"
   },
   {
     "id": 64,
@@ -3111,7 +3111,7 @@
       "gpc": 0.000010942602260067609,
       "gly": 0.00003571444520547769
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Messier_15"
+    "wikipedia": "https://en.wikipedia.org/wiki/Messier_15"
   },
   {
     "id": 65,
@@ -3163,7 +3163,7 @@
       "gpc": 0.0008247576374217392,
       "gly": 0.002691842465753292
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Messier_110"
+    "wikipedia": "https://en.wikipedia.org/wiki/Messier_110"
   },
   {
     "id": 66,
@@ -3215,7 +3215,7 @@
       "gpc": 0.0034928630431484945,
       "gly": 0.011399999999999473
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Sculptor_Galaxy#Central_black_hole"
+    "wikipedia": "https://en.wikipedia.org/wiki/Sculptor_Galaxy#Central_black_hole"
   },
   {
     "id": 67,
@@ -3265,7 +3265,7 @@
       "gpc": 0.0009804527840416829,
       "gly": 0.0031999999999998523
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Triangulum_Galaxy"
+    "wikipedia": "https://en.wikipedia.org/wiki/Triangulum_Galaxy"
   },
   {
     "id": 68,
@@ -3309,7 +3309,7 @@
       "gpc": 0.00000490562163522224,
       "gly": 0.0000160109589041088
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Great_Annihilator"
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_Annihilator"
   },
   {
     "id": 69,
@@ -3359,7 +3359,7 @@
       "gpc": 0.00000521222298742363,
       "gly": 0.0000170116438356156
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/4U_1543-475"
+    "wikipedia": "https://en.wikipedia.org/wiki/4U_1543-475"
   },
   {
     "id": 70,
@@ -3411,7 +3411,7 @@
       "gpc": 0.000001441026355346533,
       "gly": 0.00000470321917808196
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/A0620-00"
+    "wikipedia": "https://en.wikipedia.org/wiki/A0620-00"
   },
   {
     "id": 71,
@@ -3465,7 +3465,7 @@
       "gpc": 0.0000018610702078624374,
       "gly": 0.000006074157534246276
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Cygnus_X-1"
+    "wikipedia": "https://en.wikipedia.org/wiki/Cygnus_X-1"
   },
   {
     "id": 72,
@@ -3520,7 +3520,7 @@
       "gpc": 0.00000735843245283336,
       "gly": 0.0000240164383561632
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/Cygnus_X-3"
+    "wikipedia": "https://en.wikipedia.org/wiki/Cygnus_X-3"
   },
   {
     "id": 73,
@@ -3574,7 +3574,7 @@
       "gpc": 0.000002391490547170842,
       "gly": 0.00000780534246575304
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/GRO_J0422%2B32"
+    "wikipedia": "https://en.wikipedia.org/wiki/GRO_J0422%2B32"
   },
   {
     "id": 74,
@@ -3618,7 +3618,7 @@
       "gpc": 0.0000025294611556614674,
       "gly": 0.0000082556506849311
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/GRO_J1655%E2%88%9240"
+    "wikipedia": "https://en.wikipedia.org/wiki/GRO_J1655%E2%88%9240"
   },
   {
     "id": 75,
@@ -3662,7 +3662,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/GRS_1124-683"
+    "wikipedia": "https://en.wikipedia.org/wiki/GRS_1124-683"
   },
   {
     "id": 76,
@@ -3713,7 +3713,7 @@
       "gpc": 0.00000858483786163892,
       "gly": 0.0000280191780821904
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/GRS_1915%2B105"
+    "wikipedia": "https://en.wikipedia.org/wiki/GRS_1915%2B105"
   },
   {
     "id": 77,
@@ -3757,7 +3757,7 @@
       "gpc": 0.000002698091899372232,
       "gly": 0.00000880602739725984
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/GS_2000%2B25"
+    "wikipedia": "https://en.wikipedia.org/wiki/GS_2000%2B25"
   },
   {
     "id": 78,
@@ -3808,7 +3808,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/GX_339-4"
+    "wikipedia": "https://en.wikipedia.org/wiki/GX_339-4"
   },
   {
     "id": 79,
@@ -3857,7 +3857,7 @@
       "gpc": 0.00000858483786163892,
       "gly": 0.0000280191780821904
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/IGR_J17091-3624"
+    "wikipedia": "https://en.wikipedia.org/wiki/IGR_J17091-3624"
   },
   {
     "id": 80,
@@ -3901,7 +3901,7 @@
       "gpc": 0.00000214620946540973,
       "gly": 0.0000070047945205476
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/LB-1"
+    "wikipedia": "https://en.wikipedia.org/wiki/LB-1"
   },
   {
     "id": 81,
@@ -3951,7 +3951,7 @@
       "gpc": 0.000827823650943753,
       "gly": 0.00270184931506836
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/M33_X-7"
+    "wikipedia": "https://en.wikipedia.org/wiki/M33_X-7"
   },
   {
     "id": 82,
@@ -3995,7 +3995,7 @@
       "gpc": 0.0000061320270440278,
       "gly": 0.000020013698630136
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/OGLE-2011-BLG-0462"
+    "wikipedia": "https://en.wikipedia.org/wiki/OGLE-2011-BLG-0462"
   },
   {
     "id": 83,
@@ -4039,7 +4039,7 @@
       "gpc": 0.013423007199376854,
       "gly": 0.043809986301367704
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/SN_1997D"
+    "wikipedia": "https://en.wikipedia.org/wiki/SN_1997D"
   },
   {
     "id": 84,
@@ -4110,7 +4110,7 @@
       "gpc": 0.00000551882433962502,
       "gly": 0.0000180123287671224
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/SS_433"
+    "wikipedia": "https://en.wikipedia.org/wiki/SS_433"
   },
   {
     "id": 85,
@@ -4161,7 +4161,7 @@
       "gpc": 0.0000023899996756497846,
       "gly": 0.000007800476562014445
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/V404_Cygni"
+    "wikipedia": "https://en.wikipedia.org/wiki/V404_Cygni"
   },
   {
     "id": 86,
@@ -4216,7 +4216,7 @@
       "gpc": 2.943372981133344e-7,
       "gly": 9.60657534246528e-7
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/V_Puppis"
+    "wikipedia": "https://en.wikipedia.org/wiki/V_Puppis"
   },
   {
     "id": 87,
@@ -4265,7 +4265,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/XTE_J1118%2B480"
+    "wikipedia": "https://en.wikipedia.org/wiki/XTE_J1118%2B480"
   },
   {
     "id": 88,
@@ -4309,7 +4309,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/XTE_J1550%E2%80%93564"
+    "wikipedia": "https://en.wikipedia.org/wiki/XTE_J1550%E2%80%93564"
   },
   {
     "id": 89,
@@ -4353,7 +4353,7 @@
       "gpc": 0.000003299999552152422,
       "gly": 0.00001077053249148438
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/XTE_J1650%E2%88%92500"
+    "wikipedia": "https://en.wikipedia.org/wiki/XTE_J1650%E2%88%92500"
   },
   {
     "id": 90,
@@ -4402,7 +4402,7 @@
       "gpc": 0.000006193347314468078,
       "gly": 0.00002021383561643736
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/V4641_Sagittarii"
+    "wikipedia": "https://en.wikipedia.org/wiki/V4641_Sagittarii"
   },
   {
     "id": 91,
@@ -4446,7 +4446,7 @@
       "gpc": 4.782981094341684e-7,
       "gly": 0.000001561068493150608
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/EGSD2_J142033.66_525917.5"
+    "wikipedia": "https://en.wikipedia.org/wiki/EGSD2_J142033.66_525917.5"
   },
   {
     "id": 91,
@@ -4490,7 +4490,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/EGSD2_J142033.66_525917.5"
+    "wikipedia": "https://en.wikipedia.org/wiki/EGSD2_J142033.66_525917.5"
   },
   {
     "id": 92,
@@ -4534,7 +4534,7 @@
       "gpc": 1.0723702325456401,
       "gly": 3.5
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/OJ_287"
+    "wikipedia": "https://en.wikipedia.org/wiki/OJ_287"
   },
   {
     "id": 93,
@@ -4589,7 +4589,7 @@
       "gpc": 1.073104732704865,
       "gly": 3.5023972602738
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/PKS_1302-102"
+    "wikipedia": "https://en.wikipedia.org/wiki/PKS_1302-102"
   },
   {
     "id": 94,
@@ -4633,7 +4633,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/SDSS_J120136.02%2B300305.5"
+    "wikipedia": "https://en.wikipedia.org/wiki/SDSS_J120136.02%2B300305.5"
   },
   {
     "id": 95,
@@ -4677,7 +4677,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/SDSS_J150243.09%2B111557.3"
+    "wikipedia": "https://en.wikipedia.org/wiki/SDSS_J150243.09%2B111557.3"
   },
   {
     "id": 96,
@@ -4721,7 +4721,7 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/GOODS_J123652.77%2B621354.7"
+    "wikipedia": "https://en.wikipedia.org/wiki/GOODS_J123652.77%2B621354.7"
   },
   {
     "id": 97,
@@ -4765,6 +4765,6 @@
       "gpc": null,
       "gly": null
     },
-    "wikipekia": "https://en.wikipedia.org/wiki/2MASX_J10270057%2B1749001"
+    "wikipedia": "https://en.wikipedia.org/wiki/2MASX_J10270057%2B1749001"
   }
 ]
