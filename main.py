@@ -45,14 +45,9 @@ def getRandom():
     return getRandomData()
 
 
-@app.get("/randomName")
-def getRandomName():
-    return choice(getRandomData()["name"])
-
-
-@app.get("/randomImage")
-def getRandomImage():
-    return getRandomData()["image"]
+@app.get("/randomValue/{value}")
+def getRandomValue(value: str):
+    return getRandomData()[value]
 
 
 @app.get("/getValueByID/{value}/{id}")
