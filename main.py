@@ -2,7 +2,6 @@ import uvicorn
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from utils import data, getSize, getRandomData
-from random import choice
 
 app = FastAPI()
 origins = ["*"]
@@ -25,9 +24,10 @@ def blackHoles():
 @app.get("/data/{id}")
 def getByID(id):
     for i in data():
-        if str(i["id"]) == id:
-            return i
-    raise HTTPException(status_code=404, detail="Data not found")
+        match str(i["id"]) == id:
+            case True:
+                return i
+    raise HTTPException(status_code=404, detail="Data not found.")
 
 
 @app.get("/getDataSizeKiloBytes")
@@ -47,21 +47,34 @@ def getRandom():
 
 @app.get("/randomValue/{value}")
 def getRandomValue(value: str):
-    return getRandomData()[value]
+    match value in getRandomData():
+        case True:
+            return getRandomData()[value]
+    raise HTTPException(status_code=404, detail="Data not found.")
 
 
 @app.get("/getValueByID/{value}/{id}")
 def getValueByID(value, id: int):
-    return data()[id][value]
+    id -= 1
+    match len(data()) > id:
+        case True:
+            match value in data()[id]:
+                case True:
+                    return data()[id][value]
+    raise HTTPException(status_code=404, detail="Data not found.")
 
 
 @app.get("/getRandomDatas/{dataCount}")
 def getRandomDatas(dataCount: int):
-    data = []
-    for _ in range(dataCount):
-        data.append(getRandomData())
-    return data
+    match len(data()) > dataCount:
+        case True:
+            output = []
+            for _ in range(dataCount):
+                output.append(getRandomData())
+            return output
+    raise HTTPException(status_code=404, detail="Too much data is requested.")
 
 
-if __name__ == "__main__":
-    uvicorn.run("main:app", host="127.0.0.1", port=1818, workers=1, reload=True)
+match __name__ == "__main__":
+    case True:
+        uvicorn.run("main:app", host="127.0.0.1", port=1818, workers=1, reload=True)
