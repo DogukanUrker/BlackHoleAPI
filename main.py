@@ -26,7 +26,7 @@ def getByID(id):
     for i in data():
         match str(i["id"]) == id:
             case True:
-                return i
+                return [i]
     raise HTTPException(status_code=404, detail="Data not found.")
 
 
