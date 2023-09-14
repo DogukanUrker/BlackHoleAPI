@@ -3,7 +3,17 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from utils import data, getSize, getRandomData
 
-app = FastAPI()
+
+app = FastAPI(
+    title="BlackHolesAPI",
+    version="1.0.0",
+    contact={
+        "name": "Dogukan Urker",
+        "url": "https://dogukanurker.com",
+        "email": "dogukanurker@icloud.com",
+    },
+)
+
 origins = ["*"]
 
 
