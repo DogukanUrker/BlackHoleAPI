@@ -85,8 +85,8 @@ def getRandomDatas(dataCount: int):
     raise HTTPException(status_code=404, detail="Too much data is requested.")
 
 
-@app.get("/getAllValues/{value}")
-def getAllValues(value: str):
+@app.get("/getAll/{value}")
+def getAll(value: str):
     output = []
     for i in data():
         try:
@@ -98,4 +98,4 @@ def getAllValues(value: str):
 
 match __name__ == "__main__":
     case True:
-        uvicorn.run("main:app", host="127.0.0.1", port=1818, workers=1, reload=True)
+        uvicorn.run("main:app", host="192.168.1.129", port=1818, workers=1, reload=True)
