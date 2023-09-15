@@ -52,7 +52,7 @@ def getDataSizeBytes():
 
 @app.get("/random")
 def getRandom():
-    return getRandomData()
+    return [getRandomData()]
 
 
 @app.get("/randomValue/{value}")
