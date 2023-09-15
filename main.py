@@ -96,6 +96,20 @@ def getAll(value: str):
     return output
 
 
+@app.get("/getAllWithID/{value}")
+def getAllWithID(value: str):
+    output = []
+    for i in data():
+        try:
+            blackhole = []
+            blackhole.append(i["id"])
+            blackhole.append(i[value])
+            output.append(blackhole)
+        except:
+            raise HTTPException(status_code=404, detail="Data not found.")
+    return output
+
+
 match __name__ == "__main__":
     case True:
         uvicorn.run("main:app", host="192.168.1.129", port=1818, workers=1, reload=True)
