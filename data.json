@@ -177,7 +177,7 @@
     "declination": "+38° 03' 32″",
     "coordinates": "04h 05m 49.2s, 38° 03' 32″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=04%2005%2049.200%2B38%2003%2032.00&fov=0.01&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 16500,
+    "redshift": 16500.0,
     "apparentMagnitude": 17.2,
     "absoluteMagnitude": null,
     "discovery": {
@@ -222,7 +222,7 @@
     "coordinates": "15h 17m 41.81s, -24° 22' 19.5″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=15%2017%2041.810-24%2022%2019.50&fov=0.03&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": 0.049,
-    "apparentMagnitude": 14,
+    "apparentMagnitude": 14.0,
     "absoluteMagnitude": null,
     "discovery": {
       "year": 1942,
@@ -316,7 +316,7 @@
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=08%2031%2041.700%2B52%2045%2016.80&fov=0.05&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": 3.911,
     "apparentMagnitude": 15.2,
-    "absoluteMagnitude": 15,
+    "absoluteMagnitude": 15.0,
     "discovery": {
       "year": 1998,
       "location": null,
@@ -358,7 +358,7 @@
     "declination": "+23° 30' 11″",
     "coordinates": "15h 34m 57.1s, +23° 30' 11″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=15%2034%2057.100%2B23%2030%2011.00&fov=0.25&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 5434,
+    "redshift": 5434.0,
     "apparentMagnitude": 13.9,
     "absoluteMagnitude": null,
     "discovery": {
@@ -501,7 +501,7 @@
     "declination": "-37° 12' 30″",
     "coordinates": "03h 22m 41.7s, -37° 12' 30″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=03%2022%2041.700-37%2012%2030.00&fov=0.50&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 1760,
+    "redshift": 1760.0,
     "apparentMagnitude": 9.4,
     "absoluteMagnitude": null,
     "discovery": {
@@ -725,7 +725,7 @@
     "declination": "+40° 51' 55″",
     "coordinates": "00h 42m 41.8s, 40° 51' 55″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=13%2029%2052.698%2B47%2011%2042.93&fov=0.73&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": -200,
+    "redshift": -200.0,
     "apparentMagnitude": 8.08,
     "absoluteMagnitude": null,
     "discovery": {
@@ -882,7 +882,7 @@
     "declination": "-00° 00' 47.84″",
     "coordinates": "02h 42m 40.7s, -00° 00' 48″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=02%2042%2040.700-00%2000%2047.84&fov=0.60&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 1137,
+    "redshift": 1137.0,
     "apparentMagnitude": 8.9,
     "absoluteMagnitude": null,
     "discovery": {
@@ -985,7 +985,7 @@
     "declination": "+12° 53' 13.1393″",
     "coordinates": "12h 25m 03.7s, +12° 53' 13″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2025%2003.743%2B12%2053%2013.14&fov=0.22&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 1060,
+    "redshift": 1060.0,
     "apparentMagnitude": 9.1,
     "absoluteMagnitude": -22.41,
     "discovery": {
@@ -1043,7 +1043,7 @@
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2030%2049.423%2B12%2023%2028.04&fov=0.33&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": 0.00428,
     "apparentMagnitude": 8.6,
-    "absoluteMagnitude": -22,
+    "absoluteMagnitude": -22.0,
     "discovery": {
       "year": 1781,
       "location": null,
@@ -1180,7 +1180,7 @@
     "declination": "+47° 18' 14″",
     "coordinates": "12h 18m 57.5s, +47° 18' 14″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2018%2057.500%2B47%2018%2014.00&fov=0.59&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 448,
+    "redshift": 448.0,
     "apparentMagnitude": 8.4,
     "absoluteMagnitude": null,
     "discovery": {
@@ -1415,7 +1415,7 @@
     "declination": "-30° 16' 30″",
     "coordinates": "02h 46m 19.0s, -30° 16' 30″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=02%2046%2019.000-30%2016%2030.00&fov=0.39&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 1271,
+    "redshift": 1271.0,
     "apparentMagnitude": 10.2,
     "absoluteMagnitude": null,
     "discovery": {
@@ -1679,7 +1679,7 @@
     "declination": "+55° 40' 47″",
     "coordinates": "10 01 57.800, +55 40 47.00",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=10%2001%2057.800%2B55%2040%2047.00&fov=0.26&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 1116,
+    "redshift": 1116.0,
     "apparentMagnitude": 11.5,
     "absoluteMagnitude": null,
     "discovery": {
@@ -1729,7 +1729,7 @@
     "declination": "-7° 43' 07″",
     "coordinates": "10h 05m 14.0s, -07° 43' 07″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=10%2005%2014.000-07%2043%2007.00&fov=0.39&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 663,
+    "redshift": 663.0,
     "apparentMagnitude": 9.9,
     "absoluteMagnitude": null,
     "discovery": {
@@ -1817,7 +1817,7 @@
     "declination": "+12° 37' 46″",
     "coordinates": "10h 48m 16.9s, +12° 37' 46″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=10%2048%2016.900%2B12%2037%2046.00&fov=0.18&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 704,
+    "redshift": 704.0,
     "apparentMagnitude": 10.9,
     "absoluteMagnitude": null,
     "discovery": {
@@ -2000,8 +2000,8 @@
     "coordinates": "12h 27m 45.6s, +13° 00' 31″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2027%2045.600%2B13%2000%2031.00&fov=0.44&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": 0.002638,
-    "apparentMagnitude": 10,
-    "absoluteMagnitude": 12,
+    "apparentMagnitude": 10.0,
+    "absoluteMagnitude": 12.0,
     "discovery": {
       "year": null,
       "location": null,
@@ -2148,7 +2148,7 @@
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2030%2049.423%2B12%2023%2028.04&fov=0.33&survey=CDS%2FP%2FDSS2%2Fcolor",
     "redshift": 0.00428,
     "apparentMagnitude": 8.6,
-    "absoluteMagnitude": -22,
+    "absoluteMagnitude": -22.0,
     "discovery": {
       "year": 1880,
       "location": null,
@@ -2349,7 +2349,7 @@
     "declination": "-05° 48' 03″",
     "coordinates": "12h 48m 35.9s, -05° 48' 03″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=12%2048%2035.900-05%2048%2003.00&fov=0.23&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 1241,
+    "redshift": 1241.0,
     "apparentMagnitude": 10.97,
     "absoluteMagnitude": null,
     "discovery": {
@@ -2446,7 +2446,7 @@
     "declination": "-49° 28' 06″",
     "coordinates": "13h 05m 27.5s, -49° 28' 06″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=13%2005%2027.500-49%2028%2006.00&fov=0.99&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 563,
+    "redshift": 563.0,
     "apparentMagnitude": 9.3,
     "absoluteMagnitude": null,
     "discovery": {
@@ -2490,7 +2490,7 @@
     "declination": "+36° 35' 38″",
     "coordinates": "13h 13m 27.5s, +36° 35' 38″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=13%2013%2027.500%2B36%2035%2038.00&fov=0.39&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 875,
+    "redshift": 875.0,
     "apparentMagnitude": 10.8,
     "absoluteMagnitude": null,
     "discovery": {
@@ -2584,7 +2584,7 @@
     "declination": "+26° 26' 49″",
     "coordinates": "21h 18m 33s, +26° 26' 49″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=21%2018%2033.000%2B26%2026%2049.00&fov=0.07&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 4672,
+    "redshift": 4672.0,
     "apparentMagnitude": 13.4,
     "absoluteMagnitude": null,
     "discovery": {
@@ -2909,7 +2909,7 @@
     "declination": "+69° 40' 47″",
     "coordinates": "09h 55m 52.2s, +69° 40' 47″",
     "map": "https://aladin.cds.unistra.fr/AladinLite/?target=09%2055%2052.200%2B69%2040%2047.00&fov=0.22&survey=CDS%2FP%2FDSS2%2Fcolor",
-    "redshift": 203,
+    "redshift": 203.0,
     "apparentMagnitude": 8.41,
     "absoluteMagnitude": null,
     "discovery": {
