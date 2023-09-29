@@ -821,6 +821,16 @@ Returns specific value with IDs from all black holes.
 ]
 ```
 
+### /getDataSize [get]
+
+Returns current size of "data.json".
+
+`/getDataSize`
+
+```json
+134
+```
+
 ### Contributors 💕
 
 <a href="https://github.com/dogukanurker"><img src="https://avatars.githubusercontent.com/u/62756402" title="ngryman" width="80" height="80"></a>
