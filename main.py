@@ -40,8 +40,8 @@ def getByID(id):
     raise HTTPException(status_code=404, detail="Data not found.")
 
 
-@app.get("/getDataSizeKiloBytes")
-def getDataSizeKiloBytes():
+@app.get("/getDataSize")
+def getDataSize():
     return int(getSize() / 1024)
 
 
