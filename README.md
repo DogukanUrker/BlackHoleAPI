@@ -4,7 +4,7 @@ API of Black Holes.
 This list of black holes (and stars considered probable candidates) is organized by mass (including black holes of undetermined mass); some items in this API are galaxies or star clusters that are believed to be organized around a black hole. [Total 97 Item] [134KB]
 
 
-### [Demo Video 📺](https://youtu.be/9TLdmE_5Axw)
+### [Demo Video 📺](https://youtu.be/kdadQ5xUQYY)
 
 
 ## Requirements 📦
@@ -25,6 +25,57 @@ install requirements.txt 🔽
 
 it's ready to run 🎉
 `python main.py`
+
+## Data Form
+Null = Unknown
+
+```json
+{
+    "id": INTEGER,
+    "name": LIST WITH STRINGS,
+    "list": STRING,
+    "kind": STRING,
+    "image": STRING,
+    "type": STRING,
+    "age": {
+      "text": STRING,
+      "number": INTEGER
+    },
+    "constellation": STRING,
+    "rightAscension": STRING,
+    "declination": STRING,
+    "coordinates": STRING,
+    "map": STRING,
+    "redshift": FLOAT,
+    "apparentMagnitude": FLOAT,
+    "absoluteMagnitude": FLOAT,
+    "discovery": {
+      "year": INTEGER,
+      "location": STRING,
+      "discoverer": STRING
+    },
+    "solarmass": {
+      "text": STRING,
+      "number": INTEGER
+    },
+    "radius": STRING,
+    "luminosity": STRING,
+    "temperature": {
+      "kelvin": INTEGER,
+      "celsius": INTEGER,
+      "fahrenheit": INTEGER
+    },
+    "distance": {
+      "m": INTEGER,
+      "km": INTEGER,
+      "ly": INTEGER,
+      "gpc": INTEGER,
+      "gly": INTEGER
+    },
+    "wikipedia": STRING
+  },
+
+```
 
 ## Requests 📚
 
