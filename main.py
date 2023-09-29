@@ -40,11 +40,6 @@ def getByID(id):
     raise HTTPException(status_code=404, detail="Data not found.")
 
 
-@app.get("/getDataSize")
-def getDataSize():
-    return int(getSize() / 1024)
-
-
 @app.get("/random")
 def getRandom():
     return [getRandomData()]
@@ -103,6 +98,11 @@ def getAllWithID(value: str):
         except:
             raise HTTPException(status_code=404, detail="Data not found.")
     return output
+
+
+@app.get("/getDataSize")
+def getDataSize():
+    return int(getSize() / 1024)
 
 
 match __name__ == "__main__":
